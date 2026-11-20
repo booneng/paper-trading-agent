@@ -1,5 +1,7 @@
 
-Equity $999.50 (-0.05%)  free cash $747.80  strategy v2  agent 2.2  since 2026-11-19 15:01 UTC
-  OPEN #1 short NZD/USD   entry 0.55007 now 0.55018 stop 0.55170 target 0.54679 uP&L -0.50
-  Lessons: No closed trades yet - nothing to learn from live trading so far.
+Equity $1,015.01 (+1.50%)  free cash $604.11  strategy v2  agent 2.2  since 2026-11-19 15:01 UTC
+  OPEN #2 short EUR/USD   entry 1.0971 now 1.0969 stop 1.0995 target 1.0924 uP&L +0.76
+  OPEN #3 long  Crude oil entry 84.0036 now 83.9700 stop 82.4140 target 87.1828 uP&L -0.24
+  Closed 1, win rate 100%, +1.93R avg, P&L +14.50
+  Lessons: 1 closed trades so far - not enough for reliable patterns (needs ~8+ per group).
 
