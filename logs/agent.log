@@ -95,3 +95,17 @@
 [2026-11-20 06:38:54 UTC] ! could not fetch Silver: yahoo failed (Yahoo is rate-limiting us; paused until 2026-11-20 06:58 UTC) (will retry)
 [2026-11-20 06:38:54 UTC] ! could not fetch Crude oil: yahoo failed (Yahoo is rate-limiting us; paused until 2026-11-20 06:58 UTC) (will retry)
 [2026-11-20 06:38:54 UTC] ! could not fetch Copper: yahoo failed (Yahoo is rate-limiting us; paused until 2026-11-20 06:58 UTC) (will retry)
+[2026-11-20 13:46:26 UTC] Paper trading agent v2.2 started in /home/runner/work/paper-trading-agent/paper-trading-agent - strategy v2, 11 markets, longs on, shorts on, Yahoo client curl_cffi, equity $1,000.00. Paper money only.
+[2026-11-20 13:46:26 UTC] Data source for Bitcoin: coinbase (BTC-USD)
+[2026-11-20 13:46:26 UTC] Data source for Ethereum: coinbase (ETH-USD)
+[2026-11-20 13:46:26 UTC] Data source for Solana: coinbase (SOL-USD)
+[2026-11-20 13:46:27 UTC] Data source for EUR/USD: yahoo (EURUSD=X)
+[2026-11-20 13:46:27 UTC] Data source for GBP/USD: yahoo (GBPUSD=X)
+[2026-11-20 13:46:27 UTC] Data source for AUD/USD: yahoo (AUDUSD=X)
+[2026-11-20 13:46:27 UTC] Data source for NZD/USD: yahoo (NZDUSD=X)
+[2026-11-20 13:46:27 UTC] >> SHORT #1 NZD/USD 4584.84 @ 0.55007 - NZD/USD: fast EMA crossed BELOW the slow EMA 2h ago, price below the trend EMA (trend EMA slope -0.03%/10h). RSI 52, trend efficiency 0.01 (choppy), price -0.4 ATR below the slow EMA, 100% of forex in downtrends, hourly volatility 0.15%.
+[2026-11-20 13:46:27 UTC] Data source for Gold: yahoo (GC=F)
+[2026-11-20 13:46:27 UTC] Data source for Silver: yahoo (SI=F)
+[2026-11-20 13:46:27 UTC] Data source for Crude oil: yahoo (CL=F)
+[2026-11-20 13:46:27 UTC] Data source for Copper: yahoo (HG=F)
+[2026-11-20 13:46:27 UTC] equity $999.50  free cash $747.80  v2  |  open: NZD/USD short
