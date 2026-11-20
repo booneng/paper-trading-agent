@@ -1,0 +1,43 @@
+name: paper-trading-agent
+
+on:
+  schedule:
+    - cron: "7 * * * *"      # every hour, 7 minutes after the hourly candle closes
+  workflow_dispatch: {}       # "Run workflow" button for a manual run
+
+permissions:
+  contents: write             # lets the job commit state, trades and journal back to the repo
+
+concurrency:
+  group: paper-trader
+  cancel-in-progress: false
+
+jobs:
+  trade:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Chrome-compatible web client for Yahoo Finance (optional)
+        run: pip install --quiet curl_cffi || echo "curl_cffi unavailable - using the built-in client"
+
+      - name: Run one trading cycle (and the daily learning step when due)
+        run: |
+          mkdir -p logs reports
+          python3 paper_agent.py run --once 2>&1 | tee -a logs/agent.log
+          python3 paper_agent.py status | tee status.txt
+
+      - name: Save state, trades, journal and reports to the repo
+        run: |
+          git config user.name "paper-trading-bot"
+          git config user.email "paper-trading-bot@users.noreply.github.com"
+          tail -n 3000 logs/agent.log > logs/agent.tmp && mv logs/agent.tmp logs/agent.log
+          git add -A
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -q -m "Trading cycle $(date -u +'%Y-%m-%d %H:%M UTC')"
+          for i in 1 2 3; do
+            git pull -q --rebase -X theirs && git push -q && exit 0
+            sleep 5
+          done
+          exit 1

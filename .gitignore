@@ -1,0 +1,3 @@
+__pycache__/
+*.tmp
+backtest_journal.md

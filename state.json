@@ -1,0 +1,102 @@
+{
+  "created": "2026-11-19 15:01 UTC",
+  "agent_version": "2.2",
+  "starting_cash": 1000.0,
+  "cash": 1000.0,
+  "positions": {},
+  "followups": [],
+  "last_candle": {
+    "BTC-USD": 1795150800,
+    "ETH-USD": 1795150800,
+    "SOL-USD": 1795150800,
+    "EURUSD=X": 1795150800,
+    "GBPUSD=X": 1795150800,
+    "AUDUSD=X": 1795150800,
+    "GC=F": 1795150800
+  },
+  "last_prices": {
+    "BTC-USD": 61853.08,
+    "ETH-USD": 1739.53,
+    "SOL-USD": 72.64,
+    "EURUSD=X": 1.09739,
+    "GBPUSD=X": 1.31034,
+    "AUDUSD=X": 0.66677,
+    "GC=F": 3540.17
+  },
+  "equity_history": [
+    {
+      "time": "2026-11-19 15:01 UTC",
+      "equity": 1000.0
+    },
+    {
+      "time": "2026-11-19 16:10 UTC",
+      "equity": 1000.0
+    },
+    {
+      "time": "2026-11-19 17:01 UTC",
+      "equity": 1000.0
+    },
+    {
+      "time": "2026-11-19 18:10 UTC",
+      "equity": 1000.0
+    },
+    {
+      "time": "2026-11-19 19:01 UTC",
+      "equity": 1000.0
+    },
+    {
+      "time": "2026-11-19 20:00 UTC",
+      "equity": 1000.0
+    },
+    {
+      "time": "2026-11-19 21:11 UTC",
+      "equity": 1000.0
+    },
+    {
+      "time": "2026-11-19 22:00 UTC",
+      "equity": 1000.0
+    },
+    {
+      "time": "2026-11-19 23:05 UTC",
+      "equity": 1000.0
+    },
+    {
+      "time": "2026-11-20 00:14 UTC",
+      "equity": 1000.0
+    },
+    {
+      "time": "2026-11-20 01:03 UTC",
+      "equity": 1000.0
+    },
+    {
+      "time": "2026-11-20 02:04 UTC",
+      "equity": 1000.0
+    },
+    {
+      "time": "2026-11-20 03:00 UTC",
+      "equity": 1000.0
+    },
+    {
+      "time": "2026-11-20 04:00 UTC",
+      "equity": 1000.0
+    },
+    {
+      "time": "2026-11-20 05:00 UTC",
+      "equity": 1000.0
+    },
+    {
+      "time": "2026-11-20 06:00 UTC",
+      "equity": 1000.0
+    },
+    {
+      "time": "2026-11-20 06:13 UTC",
+      "equity": 1000.0
+    }
+  ],
+  "skipped": {},
+  "last_learn": 1795155047.156683,
+  "next_id": 1,
+  "next_check": {},
+  "src_pref": {},
+  "yahoo": {}
+}

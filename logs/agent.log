@@ -1,0 +1,97 @@
+[2026-11-19 15:01:28 UTC] Paper trading agent v2.0 started in /Users/booneng/PaperTradingAgent - strategy v1, equity $1,000.00. Paper money only.
+[2026-11-19 15:01:29 UTC] equity $1,000.00  cash $1,000.00  holding -  v1  |  BTC 63,480.84  ETH 1,796.53  SOL 74.87
+[2026-11-19 15:01:29 UTC] Learning: loading 90 days of hourly prices...
+[2026-11-19 15:01:52 UTC] Current strategy v1: train -4.82% (DD 7.4%, 59 trades) | unseen +0.68% (DD 3.7%, 11 trades)
+[2026-11-19 15:01:52 UTC] No change adopted.
+[2026-11-19 15:01:52 UTC] Daily report written: /Users/booneng/PaperTradingAgent/reports/2026-11-19.md
+[2026-11-19 16:10:41 UTC] equity $1,000.00  cash $1,000.00  holding -  v1  |  BTC 63,032.95  ETH 1,779.98  SOL 73.47
+[2026-11-19 17:01:58 UTC] equity $1,000.00  cash $1,000.00  holding -  v1  |  BTC 62,703.73  ETH 1,766.70  SOL 73.16
+[2026-11-19 18:10:25 UTC] equity $1,000.00  cash $1,000.00  holding -  v1  |  BTC 62,671.10  ETH 1,769.27  SOL 73.73
+[2026-11-19 19:01:37 UTC] equity $1,000.00  cash $1,000.00  holding -  v1  |  BTC 62,864.35  ETH 1,777.57  SOL 74.08
+[2026-11-19 20:00:19 UTC] equity $1,000.00  cash $1,000.00  holding -  v1  |  BTC 62,277.68  ETH 1,768.26  SOL 73.51
+[2026-11-19 21:11:27 UTC] equity $1,000.00  cash $1,000.00  holding -  v1  |  BTC 62,048.94  ETH 1,758.89  SOL 72.99
+[2026-11-19 22:00:43 UTC] equity $1,000.00  cash $1,000.00  holding -  v1  |  BTC 61,510.44  ETH 1,739.53  SOL 72.18
+[2026-11-19 23:05:17 UTC] equity $1,000.00  cash $1,000.00  holding -  v1  |  BTC 62,095.04  ETH 1,758.31  SOL 73.18
+[2026-11-20 00:14:53 UTC] equity $1,000.00  cash $1,000.00  holding -  v1  |  BTC 61,913.23  ETH 1,755.38  SOL 73.06
+[2026-11-20 01:03:45 UTC] equity $1,000.00  cash $1,000.00  holding -  v1  |  BTC 62,040.92  ETH 1,754.65  SOL 72.94
+[2026-11-20 02:04:06 UTC] equity $1,000.00  cash $1,000.00  holding -  v1  |  BTC 61,465.70  ETH 1,732.26  SOL 71.97
+[2026-11-20 03:00:16 UTC] equity $1,000.00  cash $1,000.00  holding -  v1  |  BTC 62,198.28  ETH 1,747.80  SOL 72.33
+[2026-11-20 04:00:40 UTC] equity $1,000.00  cash $1,000.00  holding -  v1  |  BTC 62,082.32  ETH 1,744.06  SOL 72.89
+[2026-11-20 05:00:05 UTC] equity $1,000.00  cash $1,000.00  holding -  v1  |  BTC 61,510.18  ETH 1,726.34  SOL 72.13
+[2026-11-20 05:19:13 UTC] params.json changed - now using strategy v2
+[2026-11-20 06:00:30 UTC] equity $1,000.00  cash $1,000.00  holding -  v2  |  BTC 61,825.43  ETH 1,737.67  SOL 72.65
+[2026-11-20 06:02:22 UTC] Agent upgraded 2.0 -> 2.1: re-learning now with the new capabilities.
+[2026-11-20 06:02:22 UTC] Paper trading agent v2.1 started in /Users/booneng/PaperTradingAgent - strategy v2, 11 markets, longs on, shorts on, equity $1,000.00. Paper money only.
+[2026-11-20 06:02:23 UTC] ! could not fetch EUR/USD: HTTP Error 429: Too Many Requests (will retry)
+[2026-11-20 06:02:24 UTC] ! could not fetch GBP/USD: HTTP Error 429: Too Many Requests (will retry)
+[2026-11-20 06:02:24 UTC] ! could not fetch AUD/USD: HTTP Error 429: Too Many Requests (will retry)
+[2026-11-20 06:02:25 UTC] ! could not fetch NZD/USD: HTTP Error 429: Too Many Requests (will retry)
+[2026-11-20 06:02:25 UTC] ! could not fetch Gold: HTTP Error 429: Too Many Requests (will retry)
+[2026-11-20 06:02:26 UTC] ! could not fetch Silver: HTTP Error 429: Too Many Requests (will retry)
+[2026-11-20 06:02:26 UTC] ! could not fetch Crude oil: HTTP Error 429: Too Many Requests (will retry)
+[2026-11-20 06:02:27 UTC] ! could not fetch Copper: HTTP Error 429: Too Many Requests (will retry)
+[2026-11-20 06:02:27 UTC] Learning: loading 90 days of hourly prices for 11 markets...
+[2026-11-20 06:03:04 UTC] ! could not load history for EUR/USD: HTTP Error 429: Too Many Requests
+[2026-11-20 06:03:04 UTC] ! could not load history for GBP/USD: HTTP Error 429: Too Many Requests
+[2026-11-20 06:03:05 UTC] ! could not load history for AUD/USD: HTTP Error 429: Too Many Requests
+[2026-11-20 06:03:05 UTC] ! could not load history for NZD/USD: HTTP Error 429: Too Many Requests
+[2026-11-20 06:03:06 UTC] ! could not load history for Gold: HTTP Error 429: Too Many Requests
+[2026-11-20 06:03:07 UTC] ! could not load history for Silver: HTTP Error 429: Too Many Requests
+[2026-11-20 06:03:07 UTC] ! could not load history for Crude oil: HTTP Error 429: Too Many Requests
+[2026-11-20 06:03:08 UTC] ! could not load history for Copper: HTTP Error 429: Too Many Requests
+[2026-11-20 06:03:08 UTC] Current strategy v2: train -9.72% (DD 13.3%, 113 trades) | unseen +2.36% (DD 4.9%, 37 trades)
+[2026-11-20 06:03:08 UTC] No change adopted.
+[2026-11-20 06:03:08 UTC] Daily report written: /Users/booneng/PaperTradingAgent/reports/2026-11-20.md
+[2026-11-20 06:08:09 UTC] ! could not fetch EUR/USD: HTTP Error 429: Too Many Requests (will retry)
+[2026-11-20 06:08:10 UTC] ! could not fetch GBP/USD: HTTP Error 429: Too Many Requests (will retry)
+[2026-11-20 06:08:10 UTC] ! could not fetch AUD/USD: HTTP Error 429: Too Many Requests (will retry)
+[2026-11-20 06:08:11 UTC] ! could not fetch NZD/USD: HTTP Error 429: Too Many Requests (will retry)
+[2026-11-20 06:08:11 UTC] ! could not fetch Gold: HTTP Error 429: Too Many Requests (will retry)
+[2026-11-20 06:08:11 UTC] ! could not fetch Silver: HTTP Error 429: Too Many Requests (will retry)
+[2026-11-20 06:08:12 UTC] ! could not fetch Crude oil: HTTP Error 429: Too Many Requests (will retry)
+[2026-11-20 06:08:12 UTC] ! could not fetch Copper: HTTP Error 429: Too Many Requests (will retry)
+[2026-11-20 06:10:12 UTC] Agent code was updated - restarting to load the new version.
+[2026-11-20 06:10:12 UTC] Agent upgraded 2.1 -> 2.2: re-learning now with the new capabilities.
+[2026-11-20 06:10:12 UTC] Paper trading agent v2.2 started in /Users/booneng/PaperTradingAgent - strategy v2, 11 markets, longs on, shorts on, equity $1,000.00. Paper money only.
+[2026-11-20 06:10:12 UTC] Learning: loading 90 days of hourly prices for 11 markets...
+[2026-11-20 06:10:20 UTC] Data source for Bitcoin: coinbase (BTC-USD)
+[2026-11-20 06:10:27 UTC] Data source for Ethereum: coinbase (ETH-USD)
+[2026-11-20 06:10:35 UTC] Data source for Solana: coinbase (SOL-USD)
+[2026-11-20 06:10:37 UTC] Data source for EUR/USD: kraken (EURUSD) - after: yahoo failed (HTTP Error 429: Too Many Requests)
+[2026-11-20 06:10:37 UTC] Data source for GBP/USD: kraken (GBPUSD) - after: yahoo failed (Yahoo is rate-limiting us; paused until 2026-11-20 06:25 UTC)
+[2026-11-20 06:10:37 UTC] Data source for AUD/USD: kraken (AUDUSD) - after: yahoo failed (Yahoo is rate-limiting us; paused until 2026-11-20 06:25 UTC)
+[2026-11-20 06:10:37 UTC] ! could not load history for NZD/USD: yahoo failed (Yahoo is rate-limiting us; paused until 2026-11-20 06:25 UTC)
+[2026-11-20 06:10:46 UTC] Data source for Gold: coinbase (PAXG-USD) - after: yahoo failed (Yahoo is rate-limiting us; paused until 2026-11-20 06:25 UTC)
+[2026-11-20 06:10:46 UTC] ! could not load history for Silver: yahoo failed (Yahoo is rate-limiting us; paused until 2026-11-20 06:25 UTC)
+[2026-11-20 06:10:46 UTC] ! could not load history for Crude oil: yahoo failed (Yahoo is rate-limiting us; paused until 2026-11-20 06:25 UTC)
+[2026-11-20 06:10:46 UTC] ! could not load history for Copper: yahoo failed (Yahoo is rate-limiting us; paused until 2026-11-20 06:25 UTC)
+[2026-11-20 06:10:46 UTC] Current strategy v2: train -12.39% (DD 16.1%, 147 trades) | unseen +4.56% (DD 4.6%, 67 trades)
+[2026-11-20 06:10:47 UTC] No change adopted.
+[2026-11-20 06:10:47 UTC] Daily report written: /Users/booneng/PaperTradingAgent/reports/2026-11-20.md
+[2026-11-20 06:13:47 UTC] Agent code was updated - restarting to load the new version.
+[2026-11-20 06:13:47 UTC] Paper trading agent v2.2 started in /Users/booneng/PaperTradingAgent - strategy v2, 11 markets, longs on, shorts on, Yahoo client urllib, equity $1,000.00. Paper money only.
+[2026-11-20 06:13:48 UTC] ! could not fetch NZD/USD: yahoo failed (Yahoo is rate-limiting us; paused until 2026-11-20 06:25 UTC) (will retry)
+[2026-11-20 06:13:48 UTC] ! could not fetch Silver: yahoo failed (Yahoo is rate-limiting us; paused until 2026-11-20 06:25 UTC) (will retry)
+[2026-11-20 06:13:48 UTC] ! could not fetch Crude oil: yahoo failed (Yahoo is rate-limiting us; paused until 2026-11-20 06:25 UTC) (will retry)
+[2026-11-20 06:13:48 UTC] ! could not fetch Copper: yahoo failed (Yahoo is rate-limiting us; paused until 2026-11-20 06:25 UTC) (will retry)
+[2026-11-20 06:13:48 UTC] equity $1,000.00  free cash $1,000.00  v2  |  open: -
+[2026-11-20 06:18:49 UTC] ! could not fetch NZD/USD: yahoo failed (Yahoo is rate-limiting us; paused until 2026-11-20 06:25 UTC) (will retry)
+[2026-11-20 06:18:49 UTC] ! could not fetch Silver: yahoo failed (Yahoo is rate-limiting us; paused until 2026-11-20 06:25 UTC) (will retry)
+[2026-11-20 06:18:49 UTC] ! could not fetch Crude oil: yahoo failed (Yahoo is rate-limiting us; paused until 2026-11-20 06:25 UTC) (will retry)
+[2026-11-20 06:18:49 UTC] ! could not fetch Copper: yahoo failed (Yahoo is rate-limiting us; paused until 2026-11-20 06:25 UTC) (will retry)
+[2026-11-20 06:23:50 UTC] ! could not fetch NZD/USD: yahoo failed (Yahoo is rate-limiting us; paused until 2026-11-20 06:25 UTC) (will retry)
+[2026-11-20 06:23:50 UTC] ! could not fetch Silver: yahoo failed (Yahoo is rate-limiting us; paused until 2026-11-20 06:25 UTC) (will retry)
+[2026-11-20 06:23:50 UTC] ! could not fetch Crude oil: yahoo failed (Yahoo is rate-limiting us; paused until 2026-11-20 06:25 UTC) (will retry)
+[2026-11-20 06:23:50 UTC] ! could not fetch Copper: yahoo failed (Yahoo is rate-limiting us; paused until 2026-11-20 06:25 UTC) (will retry)
+[2026-11-20 06:28:53 UTC] ! could not fetch NZD/USD: yahoo failed (HTTP Error 429: Too Many Requests) (will retry)
+[2026-11-20 06:28:53 UTC] ! could not fetch Silver: yahoo failed (Yahoo is rate-limiting us; paused until 2026-11-20 06:58 UTC) (will retry)
+[2026-11-20 06:28:53 UTC] ! could not fetch Crude oil: yahoo failed (Yahoo is rate-limiting us; paused until 2026-11-20 06:58 UTC) (will retry)
+[2026-11-20 06:28:53 UTC] ! could not fetch Copper: yahoo failed (Yahoo is rate-limiting us; paused until 2026-11-20 06:58 UTC) (will retry)
+[2026-11-20 06:33:54 UTC] ! could not fetch NZD/USD: yahoo failed (Yahoo is rate-limiting us; paused until 2026-11-20 06:58 UTC) (will retry)
+[2026-11-20 06:33:54 UTC] ! could not fetch Silver: yahoo failed (Yahoo is rate-limiting us; paused until 2026-11-20 06:58 UTC) (will retry)
+[2026-11-20 06:33:54 UTC] ! could not fetch Crude oil: yahoo failed (Yahoo is rate-limiting us; paused until 2026-11-20 06:58 UTC) (will retry)
+[2026-11-20 06:33:54 UTC] ! could not fetch Copper: yahoo failed (Yahoo is rate-limiting us; paused until 2026-11-20 06:58 UTC) (will retry)
+[2026-11-20 06:38:54 UTC] ! could not fetch NZD/USD: yahoo failed (Yahoo is rate-limiting us; paused until 2026-11-20 06:58 UTC) (will retry)
+[2026-11-20 06:38:54 UTC] ! could not fetch Silver: yahoo failed (Yahoo is rate-limiting us; paused until 2026-11-20 06:58 UTC) (will retry)
+[2026-11-20 06:38:54 UTC] ! could not fetch Crude oil: yahoo failed (Yahoo is rate-limiting us; paused until 2026-11-20 06:58 UTC) (will retry)
+[2026-11-20 06:38:54 UTC] ! could not fetch Copper: yahoo failed (Yahoo is rate-limiting us; paused until 2026-11-20 06:58 UTC) (will retry)
