@@ -114,3 +114,5 @@
 [2026-11-20 21:46:15 UTC] >> CLOSE #1 short NZD/USD @ 0.54690 (target) P&L +14.50 (+1.93R) - The thesis played out: the downtrend carried price to the target. It won despite: the market was choppy (trend efficiency 0.01).
 [2026-11-20 21:46:16 UTC] >> LONG  #3 Crude oil 4.79016 @ 84.0036 - Crude oil: fast EMA crossed ABOVE the slow EMA on this candle, price above the trend EMA (trend EMA slope -0.33%/10h). RSI 63, trend efficiency 0.15 (choppy), price 1.7 ATR above the slow EMA, volume 0.9x average, 33% of commodity in uptrends, hourly volatility 0.95%.
 [2026-11-20 21:46:16 UTC] equity $1,015.01  free cash $604.11  v2  |  open: EUR/USD short, Crude oil long
+[2026-11-21 03:10:19 UTC] Paper trading agent v2.2 started in /home/runner/work/paper-trading-agent/paper-trading-agent - strategy v2, 11 markets, longs on, shorts on, Yahoo client curl_cffi, equity $1,015.01. Paper money only.
+[2026-11-21 03:10:20 UTC] equity $1,011.53  free cash $604.11  v2  |  open: EUR/USD short, Crude oil long
