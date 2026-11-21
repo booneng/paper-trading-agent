@@ -1,6 +1,9 @@
 {
-  "version": 2,
+  "version": 3,
   "locked": [],
+  "allow_longs": true,
+  "allow_shorts": true,
+  "disabled_instruments": [],
   "ema_fast": 12,
   "ema_slow": 26,
   "ema_trend": 100,
@@ -9,15 +12,12 @@
   "rsi_max": 70,
   "min_er": 0.0,
   "max_ext_atr": 99.0,
-  "min_vol_ratio": 0.0,
+  "min_vol_ratio": 0.8,
   "stop_atr": 2.0,
   "take_profit_atr": 4.0,
   "trail_atr": 2.5,
   "risk_per_trade": 0.0075,
   "max_position_pct": 0.33,
-  "updated": "2026-11-20 05:18 UTC",
-  "allow_longs": true,
-  "allow_shorts": true,
-  "disabled_instruments": [],
-  "last_change": "risk_per_trade: 0.01 -> 0.0075 (manual, with shorts + 11 markets)"
+  "updated": "2026-11-21 12:33 UTC",
+  "last_change": "min_vol_ratio: 0.0 -> 0.8"
 }

@@ -27,3 +27,10 @@ Data: last 90 days, 7 markets; tuned on the first 2/3, checked on the last 1/3 (
 
 ## 2026-11-20 06:42 UTC - moved to the cloud
 The agent now runs hourly on GitHub Actions instead of the Mac. Account, settings and history carried over unchanged.
+
+## 2026-11-21 12:33 UTC - daily learning (strategy v2, agent 2.2)
+Data: last 90 days, 11 markets; tuned on the first 2/3, checked on the last 1/3 (unseen).
+- Current: train -13.10% (max DD 22.6%, 257 trades, win 32%) | unseen +7.24% (max DD 13.1%, 147 trades)
+- By side and market over all 90 days: long 174 trades -82.26 USD; short 230 trades +21.63 USD; crypto 131 trades +3.19 USD; forex 146 trades +84.45 USD; commodity 127 trades -148.27 USD
+- **CHANGED minimum volume vs average: 0.0 -> 0.8** (now v3). Train -13.10% -> -0.95%, unseen +7.24% -> +10.20%, unseen max DD 13.1% -> 11.4%.
+- Lessons from live trades so far: 1 closed trades so far - not enough for reliable patterns (needs ~8+ per group).
