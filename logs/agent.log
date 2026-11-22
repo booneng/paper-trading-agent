@@ -141,3 +141,12 @@
 [2026-11-22 07:57:29 UTC] Current strategy v3: train -2.02% (DD 13.5%, 227 trades) | unseen +7.98% (DD 11.4%, 126 trades)
 [2026-11-22 07:57:30 UTC] No change adopted.
 [2026-11-22 07:57:30 UTC] Daily report written: /home/runner/work/paper-trading-agent/paper-trading-agent/reports/2026-11-22.md
+[2026-11-22 16:13:29 UTC] Paper trading agent v2.2 started in /home/runner/work/paper-trading-agent/paper-trading-agent - strategy v3, 11 markets, longs on, shorts on, Yahoo client curl_cffi, equity $1,008.95. Paper money only.
+[2026-11-22 16:13:29 UTC] >> SHORT #5 Bitcoin 0.00452134 @ 59,664.00 - Bitcoin: fast EMA crossed BELOW the slow EMA 2h ago, price below the trend EMA (trend EMA slope -0.58%/10h). RSI 53, trend efficiency 0.17 (choppy), price -0.4 ATR below the slow EMA, volume 1.2x average, 100% of crypto in downtrends, hourly volatility 1.02%.
+[2026-11-22 16:13:29 UTC] >> CLOSE #5 short Bitcoin @ 60,915.33 (stop loss) P&L -6.21 (-1.02R) - The setup never worked: instead of continuing to fall, price turned against the trade almost immediately. Likely contributors: the market was choppy (trend efficiency 0.17).
+[2026-11-22 16:13:29 UTC] >> CLOSE #4 short Solana @ 70.3092 (stop loss) P&L -8.18 (-1.02R) - The setup never worked: instead of continuing to fall, price turned against the trade almost immediately. Likely contributors: the market was choppy (trend efficiency 0.15).
+[2026-11-22 16:13:31 UTC] equity $996.14  free cash $589.73  v3  |  open: EUR/USD short, Crude oil long
+[2026-11-22 16:13:31 UTC] Learning: loading 90 days of hourly prices for 11 markets...
+[2026-11-22 16:13:42 UTC] Current strategy v3: train +1.01% (DD 13.5%, 227 trades) | unseen +6.30% (DD 11.4%, 125 trades)
+[2026-11-22 16:13:43 UTC] No change adopted.
+[2026-11-22 16:13:43 UTC] Daily report written: /home/runner/work/paper-trading-agent/paper-trading-agent/reports/2026-11-22.md

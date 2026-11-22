@@ -37,3 +37,28 @@ Every trade: why it was taken, what happened, why it worked or failed, and a fol
 **Why:** Solana: fast EMA crossed BELOW the slow EMA on this candle, price below the trend EMA (trend EMA slope -0.41%/10h). RSI 41, trend efficiency 0.15 (choppy), price 1.1 ATR below the slow EMA, volume 1.0x average, 100% of crypto in downtrends, hourly volatility 1.10%.
 
 **Plan:** stop 70.2740 (+2.0 ATR), target 65.7487 (-4.0 ATR), trailing 2.5 ATR. Risking about $7.98 (0.8% of equity).
+
+## #5 OPEN SHORT Bitcoin - 2026-11-22 08:00 UTC
+**Sold short** 0.00452134 @ 59,664.00 ($269.76 exposure, strategy v3)
+
+**Why:** Bitcoin: fast EMA crossed BELOW the slow EMA 2h ago, price below the trend EMA (trend EMA slope -0.58%/10h). RSI 53, trend efficiency 0.17 (choppy), price -0.4 ATR below the slow EMA, volume 1.2x average, 100% of crypto in downtrends, hourly volatility 1.02%.
+
+**Plan:** stop 60,884.88 (+2.0 ATR), target 57,222.24 (-4.0 ATR), trailing 2.5 ATR. Risking about $6.06 (0.6% of equity).
+
+## #5 CLOSE SHORT Bitcoin - 2026-11-22 09:00 UTC
+**Result:** LOSS -6.21 USD (-1.02R) after 1h, exit by stop loss @ 60,915.33 (entry 59,664.00)
+
+**What happened:** best point +0.2 ATR in our favour, worst -2.6 ATR against, exited at -2.0 ATR.
+
+**Why it failed:** The setup never worked: instead of continuing to fall, price turned against the trade almost immediately. Likely contributors: the market was choppy (trend efficiency 0.17).
+
+**Tags:** immediate_reversal, choppy, short, crypto
+
+## #4 CLOSE SHORT Solana - 2026-11-22 09:00 UTC
+**Result:** LOSS -8.18 USD (-1.02R) (incl. $0.02 short borrow fee) after 4h, exit by stop loss @ 70.3092 (entry 68.7656)
+
+**What happened:** best point +0.1 ATR in our favour, worst -2.7 ATR against, exited at -2.0 ATR.
+
+**Why it failed:** The setup never worked: instead of continuing to fall, price turned against the trade almost immediately. Likely contributors: the market was choppy (trend efficiency 0.15).
+
+**Tags:** immediate_reversal, choppy, short, crypto
