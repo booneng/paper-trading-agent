@@ -30,3 +30,10 @@ Every trade: why it was taken, what happened, why it worked or failed, and a fol
 **Why:** Crude oil: fast EMA crossed ABOVE the slow EMA on this candle, price above the trend EMA (trend EMA slope -0.33%/10h). RSI 63, trend efficiency 0.15 (choppy), price 1.7 ATR above the slow EMA, volume 0.9x average, 33% of commodity in uptrends, hourly volatility 0.95%.
 
 **Plan:** stop 82.4140 (-2.0 ATR), target 87.1828 (+4.0 ATR), trailing 2.5 ATR. Risking about $7.78 (0.8% of equity).
+
+## #4 OPEN SHORT Solana - 2026-11-22 05:00 UTC
+**Sold short** 4.8494 @ 68.7656 ($333.47 exposure, strategy v3)
+
+**Why:** Solana: fast EMA crossed BELOW the slow EMA on this candle, price below the trend EMA (trend EMA slope -0.41%/10h). RSI 41, trend efficiency 0.15 (choppy), price 1.1 ATR below the slow EMA, volume 1.0x average, 100% of crypto in downtrends, hourly volatility 1.10%.
+
+**Plan:** stop 70.2740 (+2.0 ATR), target 65.7487 (-4.0 ATR), trailing 2.5 ATR. Risking about $7.98 (0.8% of equity).

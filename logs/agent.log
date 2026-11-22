@@ -134,3 +134,10 @@
 [2026-11-22 00:19:10 UTC] Current strategy v3: train +1.05% (DD 13.5%, 227 trades) | unseen +7.28% (DD 11.4%, 127 trades)
 [2026-11-22 00:19:12 UTC] No change adopted.
 [2026-11-22 00:19:12 UTC] Daily report written: /home/runner/work/paper-trading-agent/paper-trading-agent/reports/2026-11-22.md
+[2026-11-22 07:57:14 UTC] Paper trading agent v2.2 started in /home/runner/work/paper-trading-agent/paper-trading-agent - strategy v3, 11 markets, longs on, shorts on, Yahoo client curl_cffi, equity $1,010.52. Paper money only.
+[2026-11-22 07:57:14 UTC] >> SHORT #4 Solana 4.8494 @ 68.7656 - Solana: fast EMA crossed BELOW the slow EMA on this candle, price below the trend EMA (trend EMA slope -0.41%/10h). RSI 41, trend efficiency 0.15 (choppy), price 1.1 ATR below the slow EMA, volume 1.0x average, 100% of crypto in downtrends, hourly volatility 1.10%.
+[2026-11-22 07:57:15 UTC] equity $1,008.95  free cash $270.30  v3  |  open: EUR/USD short, Crude oil long, Solana short
+[2026-11-22 07:57:15 UTC] Learning: loading 90 days of hourly prices for 11 markets...
+[2026-11-22 07:57:29 UTC] Current strategy v3: train -2.02% (DD 13.5%, 227 trades) | unseen +7.98% (DD 11.4%, 126 trades)
+[2026-11-22 07:57:30 UTC] No change adopted.
+[2026-11-22 07:57:30 UTC] Daily report written: /home/runner/work/paper-trading-agent/paper-trading-agent/reports/2026-11-22.md

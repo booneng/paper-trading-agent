@@ -2,7 +2,7 @@
   "created": "2026-11-19 15:01 UTC",
   "agent_version": "2.2",
   "starting_cash": 1000.0,
-  "cash": 604.1064703608155,
+  "cash": 270.30120601881526,
   "positions": {
     "EURUSD=X": {
       "id": 2,
@@ -69,6 +69,39 @@
       "mfe": 0.008068626860420248,
       "mae": 0.6713518652456595,
       "bars": 2
+    },
+    "SOL-USD": {
+      "id": 4,
+      "symbol": "SOL-USD",
+      "side": "short",
+      "dir": -1,
+      "opened_t": 1795323600,
+      "entry": 68.7656,
+      "qty": 4.8493984281305,
+      "notional": 333.47179254945075,
+      "margin": 333.47179254945075,
+      "entry_fee": 0.33347179254945075,
+      "stop": 70.27404274498272,
+      "init_stop": 70.27404274498272,
+      "tp": 65.74871451003457,
+      "atr": 0.7542213724913563,
+      "risk_usd": 7.981983461542925,
+      "features": {
+        "rsi": 58.9,
+        "rsi_raw": 41.1,
+        "er": 0.146,
+        "ext_atr": 1.09,
+        "trend_slope": 0.405,
+        "vol_ratio": 0.97,
+        "atr_pct": 1.096,
+        "breadth": 1.0,
+        "cross_ago": 0
+      },
+      "thesis": "Solana: fast EMA crossed BELOW the slow EMA on this candle, price below the trend EMA (trend EMA slope -0.41%/10h). RSI 41, trend efficiency 0.15 (choppy), price 1.1 ATR below the slow EMA, volume 1.0x average, 100% of crypto in downtrends, hourly volatility 1.10%.",
+      "params_version": 3,
+      "mfe": 0.08697711625873507,
+      "mae": 0.4831472738518363,
+      "bars": 1
     }
   },
   "followups": [
@@ -88,9 +121,9 @@
     }
   ],
   "last_candle": {
-    "BTC-USD": 1795302000,
-    "ETH-USD": 1795302000,
-    "SOL-USD": 1795302000,
+    "BTC-USD": 1795327200,
+    "ETH-USD": 1795327200,
+    "SOL-USD": 1795327200,
     "EURUSD=X": 1795212000,
     "GBPUSD=X": 1795212000,
     "AUDUSD=X": 1795219140,
@@ -101,9 +134,9 @@
     "HG=F": 1795211995
   },
   "last_prices": {
-    "BTC-USD": 60086.0,
-    "ETH-USD": 1682.3,
-    "SOL-USD": 70.16,
+    "BTC-USD": 59023.8,
+    "ETH-USD": 1659.64,
+    "SOL-USD": 69.02,
     "EURUSD=X": 1.0974539518356323,
     "GBPUSD=X": 1.3081814050674438,
     "AUDUSD=X": 0.6619009971618652,
@@ -205,23 +238,29 @@
     {
       "time": "2026-11-22 00:19 UTC",
       "equity": 1010.52
+    },
+    {
+      "time": "2026-11-22 07:57 UTC",
+      "equity": 1008.95
     }
   ],
-  "skipped": {},
-  "last_learn": 1795223940.892582,
-  "next_id": 4,
+  "skipped": {
+    "weak_volume": 1
+  },
+  "last_learn": 1795251435.670273,
+  "next_id": 5,
   "next_check": {
-    "BTC-USD": 1795309230,
-    "ETH-USD": 1795309230,
-    "SOL-USD": 1795309230,
-    "EURUSD=X": 1795307340.0475621,
-    "GBPUSD=X": 1795307340.5103633,
-    "AUDUSD=X": 1795226370,
-    "NZDUSD=X": 1795226370,
-    "GC=F": 1795307340.6796682,
-    "SI=F": 1795307340.735165,
-    "CL=F": 1795307340.7858534,
-    "HG=F": 1795307340.8351955
+    "BTC-USD": 1795334430,
+    "ETH-USD": 1795334430,
+    "SOL-USD": 1795334430,
+    "EURUSD=X": 1795334834.6133332,
+    "GBPUSD=X": 1795334835.3664184,
+    "AUDUSD=X": 1795334835.4116466,
+    "NZDUSD=X": 1795334835.4603758,
+    "GC=F": 1795334835.5020516,
+    "SI=F": 1795334835.538593,
+    "CL=F": 1795334835.5753584,
+    "HG=F": 1795334835.6139364
   },
   "src_pref": {
     "BTC-USD": 0,

@@ -1,7 +1,8 @@
 
-Equity $1,010.52 (+1.05%)  free cash $604.11  strategy v3  agent 2.2  since 2026-11-19 15:01 UTC
+Equity $1,008.95 (+0.90%)  free cash $270.30  strategy v3  agent 2.2  since 2026-11-19 15:01 UTC
   OPEN #2 short EUR/USD   entry 1.0971 now 1.0975 stop 1.0995 target 1.0924 uP&L -1.05
   OPEN #3 long  Crude oil entry 84.0036 now 83.4100 stop 82.4140 target 87.1828 uP&L -2.92
+  OPEN #4 short Solana    entry 68.7656 now 69.0200 stop 70.2740 target 65.7487 uP&L -1.57
   Closed 1, win rate 100%, +1.93R avg, P&L +14.50
   Lessons: 1 closed trades so far - not enough for reliable patterns (needs ~8+ per group).
 

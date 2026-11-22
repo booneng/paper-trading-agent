@@ -48,3 +48,10 @@ Data: last 90 days, 11 markets; tuned on the first 2/3, checked on the last 1/3 
 - By side and market over all 90 days: long 155 trades -1.86 USD; short 199 trades +80.68 USD; crypto 110 trades +9.38 USD; forex 148 trades +110.98 USD; commodity 96 trades -41.55 USD
 - No change: take_profit_atr 4.0->5.0 looked better in training (+1.95%) but not on unseen data (+6.17%, 128 trades); stop_atr 2.0->2.5 looked better in training (+0.64%) but not on unseen data (+5.89%, 125 trades); min_er 0.0->0.1 looked better in training (-0.56%) but not on unseen data (+3.70%, 102 trades). Rejected as likely overfitting.
 - Lessons from live trades so far: 1 closed trades so far - not enough for reliable patterns (needs ~8+ per group).
+
+## 2026-11-22 07:57 UTC - daily learning (strategy v3, agent 2.2)
+Data: last 90 days, 11 markets; tuned on the first 2/3, checked on the last 1/3 (unseen).
+- Current: train -2.02% (max DD 13.5%, 227 trades, win 33%) | unseen +7.98% (max DD 11.4%, 126 trades)
+- By side and market over all 90 days: long 155 trades -3.47 USD; short 198 trades +54.36 USD; crypto 110 trades +9.36 USD; forex 148 trades +110.84 USD; commodity 95 trades -69.31 USD
+- No change: min_er 0.0->0.1 looked better in training (-2.10%) but not on unseen data (+4.39%, 101 trades); take_profit_atr 4.0->5.0 looked better in training (-0.47%) but not on unseen data (+6.87%, 127 trades); stop_atr 2.0->2.5 looked better in training (-2.09%) but not on unseen data (+6.61%, 124 trades). Rejected as likely overfitting.
+- Lessons from live trades so far: 1 closed trades so far - not enough for reliable patterns (needs ~8+ per group).
