@@ -62,3 +62,9 @@ Every trade: why it was taken, what happened, why it worked or failed, and a fol
 **Why it failed:** The setup never worked: instead of continuing to fall, price turned against the trade almost immediately. Likely contributors: the market was choppy (trend efficiency 0.15).
 
 **Tags:** immediate_reversal, choppy, short, crypto
+
+## #5 FOLLOW-UP Bitcoin
+In the 12h after exit price moved up to 0.9 ATR further in the trade's direction and 1.1 ATR against it. No strong verdict on the exit.
+
+## #4 FOLLOW-UP Solana
+In the 12h after exit price moved up to 0.8 ATR further in the trade's direction and 1.3 ATR against it. No strong verdict on the exit.
