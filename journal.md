@@ -122,3 +122,12 @@ In the 12h after exit price moved up to 0.4 ATR further in the trade's direction
 
 ## #2 FOLLOW-UP EUR/USD
 In the 12h after exit price moved up to 6.2 ATR further in the trade's direction and 1.8 ATR against it. No strong verdict on the exit.
+
+## #7 CLOSE SHORT GBP/USD - 2026-11-23 15:00 UTC
+**Result:** WIN +13.42 USD (+1.94R) after 3h, exit by target @ 1.3027 (entry 1.3081)
+
+**What happened:** best point +4.6 ATR in our favour, worst -0.2 ATR against, exited at +3.9 ATR.
+
+**Why it worked:** The thesis played out: the downtrend carried price to the target. It won despite: the market was choppy (trend efficiency 0.12).
+
+**Tags:** clean_win, choppy, short, forex
