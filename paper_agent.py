@@ -1222,6 +1222,7 @@ def cmd_run(args):
                 write_json(STATE_FILE, state)
                 res = learn(SETTINGS)
                 state["last_learn"] = time.time()
+                write_json(STATE_FILE, state)   # save now: a --once run exits before the next cycle saves
                 agent.p, p_mtime = load_params(), os.path.getmtime(PARAMS_FILE)
                 log(f"Daily report written: {write_report(state, res['text'])}")
         except (KeyboardInterrupt, SystemExit):
