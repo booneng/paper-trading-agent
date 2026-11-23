@@ -96,3 +96,10 @@ In the 12h after exit price moved up to 0.4 ATR further in the trade's direction
 **Why it failed:** The setup never worked: instead of continuing to rise, price turned against the trade almost immediately. Likely contributors: the market was choppy (trend efficiency 0.15); most other commodity instruments were trending the other way.
 
 **Tags:** immediate_reversal, choppy, against_market, long, commodity
+
+## #7 OPEN SHORT GBP/USD - 2026-11-23 12:00 UTC
+**Sold short** 2500.36 @ 1.3081 ($3,270.75 exposure, 10x leverage, margin $327.07, strategy v3)
+
+**Why:** GBP/USD: fast EMA crossed BELOW the slow EMA on this candle, price below the trend EMA (trend EMA slope -0.05%/10h). RSI 38, trend efficiency 0.12 (choppy), price 1.8 ATR below the slow EMA, 100% of forex in downtrends, hourly volatility 0.11%.
+
+**Plan:** stop 1.3109 (+2.0 ATR), target 1.3026 (-4.0 ATR), trailing 2.5 ATR. Risking about $6.91 (0.7% of equity).

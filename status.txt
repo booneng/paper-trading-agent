@@ -1,6 +1,7 @@
 
-Equity $986.85 (-1.31%)  free cash $661.02  strategy v3  agent 2.2  since 2026-11-19 15:01 UTC
-  OPEN #6 short EUR/USD   entry 1.0961 now 1.0963 stop 1.0981 target 1.0922 uP&L -0.33
+Equity $990.74 (-0.93%)  free cash $333.95  strategy v3  agent 2.2  since 2026-11-19 15:01 UTC
+  OPEN #6 short EUR/USD   entry 1.0961 now 1.0948 stop 1.0976 target 1.0922 uP&L +3.96
+  OPEN #7 short GBP/USD   entry 1.3081 now 1.3083 stop 1.3109 target 1.3026 uP&L -0.39
   Closed 5, win rate 20%, -0.37R avg, P&L -12.82
   Lessons: All short trades: 4 trades, win rate 25%, -0.21R avg, -4.89 USD. 'entered in a choppy market' trades lose: 5 trades, win rate 20%, -0.37R each, -12.82 USD total.
 
