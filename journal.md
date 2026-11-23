@@ -119,3 +119,6 @@ In the 12h after exit price moved up to 0.4 ATR further in the trade's direction
 **Why:** Crude oil: fast EMA crossed BELOW the slow EMA 1h ago, price below the trend EMA (trend EMA slope -0.21%/10h). RSI 36, trend efficiency 0.11 (choppy), price 1.9 ATR below the slow EMA, volume 2.0x average, 100% of commodity in downtrends, hourly volatility 0.93%.
 
 **Plan:** stop 82.8062 (+2.0 ATR), target 78.2800 (-4.0 ATR), trailing 2.5 ATR. Risking about $7.67 (0.8% of equity).
+
+## #2 FOLLOW-UP EUR/USD
+In the 12h after exit price moved up to 6.2 ATR further in the trade's direction and 1.8 ATR against it. No strong verdict on the exit.

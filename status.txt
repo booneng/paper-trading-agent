@@ -1,7 +1,7 @@
 
-Equity $1,001.38 (+0.14%)  free cash $590.36  strategy v3  agent 2.2  since 2026-11-19 15:01 UTC
-  OPEN #7 short GBP/USD   entry 1.3081 now 1.3068 stop 1.3106 target 1.3026 uP&L +3.16
-  OPEN #8 short Crude oil entry 81.2975 now 81.3300 stop 82.8062 target 78.2800 uP&L -0.24
+Equity $1,004.90 (+0.49%)  free cash $590.36  strategy v3  agent 2.2  since 2026-11-19 15:01 UTC
+  OPEN #7 short GBP/USD   entry 1.3081 now 1.3047 stop 1.3087 target 1.3026 uP&L +8.61
+  OPEN #8 short Crude oil entry 81.2975 now 81.7200 stop 82.8062 target 78.2800 uP&L -2.18
   Closed 6, win rate 33%, +0.02R avg, P&L -1.53
   Lessons: All short trades: 5 trades, win rate 40%, +0.22R avg, +6.40 USD. 'entered in a choppy market' trades lose: 5 trades, win rate 20%, -0.37R each, -12.82 USD total.
 

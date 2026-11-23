@@ -15,7 +15,7 @@
       "notional": 3270.7488740369286,
       "margin": 327.07488740369286,
       "entry_fee": 0.0,
-      "stop": 1.3105872481032985,
+      "stop": 1.3087258978720104,
       "init_stop": 1.3108717642756307,
       "tp": 1.3025861297567676,
       "atr": 0.0013809390864771673,
@@ -33,9 +33,9 @@
       },
       "thesis": "GBP/USD: fast EMA crossed BELOW the slow EMA on this candle, price below the trend EMA (trend EMA slope -0.05%/10h). RSI 38, trend efficiency 0.12 (choppy), price 1.8 ATR below the slow EMA, 100% of forex in downtrends, hourly volatility 0.11%.",
       "params_version": 3,
-      "mfe": 2.0132717562211035,
+      "mfe": 2.494273538183436,
       "mae": 0.15089096341200448,
-      "bars": 1
+      "bars": 2
     },
     "CL=F": {
       "id": 8,
@@ -67,25 +67,11 @@
       "thesis": "Crude oil: fast EMA crossed BELOW the slow EMA 1h ago, price below the trend EMA (trend EMA slope -0.21%/10h). RSI 36, trend efficiency 0.11 (choppy), price 1.9 ATR below the slow EMA, volume 2.0x average, 100% of commodity in downtrends, hourly volatility 0.93%.",
       "params_version": 3,
       "mfe": 0.0,
-      "mae": 0.0,
-      "bars": 0
+      "mae": 1.1964090167411154,
+      "bars": 1
     }
   },
   "followups": [
-    {
-      "id": 2,
-      "symbol": "EURUSD=X",
-      "dir": -1,
-      "exit_t": 1795399200,
-      "exit_px": 1.098769500553608,
-      "entry": 1.097103308558464,
-      "atr": 0.001176773235679165,
-      "code": "trend_reversal",
-      "win": false,
-      "bars": 11,
-      "hi": 1.1008366346359253,
-      "lo": 1.0914647579193115
-    },
     {
       "id": 3,
       "symbol": "CL=F",
@@ -96,7 +82,7 @@
       "atr": 0.7947963327591714,
       "code": "stop_loss",
       "win": false,
-      "bars": 2,
+      "bars": 3,
       "hi": 82.56999969482422,
       "lo": 80.55000305175781
     },
@@ -110,36 +96,36 @@
       "atr": 0.0009763611537830721,
       "code": "target",
       "win": true,
-      "bars": 0,
-      "hi": 1.092345045563383,
+      "bars": 1,
+      "hi": 1.0949305295944214,
       "lo": 1.092345045563383
     }
   ],
   "last_candle": {
-    "BTC-USD": 1795438800,
-    "ETH-USD": 1795438800,
-    "SOL-USD": 1795438800,
-    "EURUSD=X": 1795438800,
-    "GBPUSD=X": 1795438800,
-    "AUDUSD=X": 1795438800,
-    "GC=F": 1795438800,
-    "NZDUSD=X": 1795438800,
-    "SI=F": 1795438800,
-    "CL=F": 1795438800,
-    "HG=F": 1795438800
+    "BTC-USD": 1795442400,
+    "ETH-USD": 1795442400,
+    "SOL-USD": 1795442400,
+    "EURUSD=X": 1795442400,
+    "GBPUSD=X": 1795442400,
+    "AUDUSD=X": 1795442400,
+    "GC=F": 1795442400,
+    "NZDUSD=X": 1795442400,
+    "SI=F": 1795442400,
+    "CL=F": 1795442400,
+    "HG=F": 1795442400
   },
   "last_prices": {
-    "BTC-USD": 63785.06,
-    "ETH-USD": 1809.37,
-    "SOL-USD": 76.55,
-    "EURUSD=X": 1.0933741331100464,
-    "GBPUSD=X": 1.3068478107452393,
-    "AUDUSD=X": 0.6634819507598877,
-    "GC=F": 3651.60009765625,
-    "NZDUSD=X": 0.5454049706459045,
-    "SI=F": 42.78499984741211,
-    "CL=F": 81.33000183105469,
-    "HG=F": 5.541500091552734
+    "BTC-USD": 62822.62,
+    "ETH-USD": 1776.78,
+    "SOL-USD": 76.38,
+    "EURUSD=X": 1.0930156707763672,
+    "GBPUSD=X": 1.304665446281433,
+    "AUDUSD=X": 0.6640105843544006,
+    "GC=F": 3669.300048828125,
+    "NZDUSD=X": 0.5455834865570068,
+    "SI=F": 43.584999084472656,
+    "CL=F": 81.72000122070312,
+    "HG=F": 5.736000061035156
   },
   "equity_history": [
     {
@@ -281,25 +267,30 @@
     {
       "time": "2026-11-23 14:07 UTC",
       "equity": 1001.38
+    },
+    {
+      "time": "2026-11-23 15:09 UTC",
+      "equity": 1004.9
     }
   ],
   "skipped": {
-    "weak_volume": 3
+    "weak_volume": 3,
+    "rsi": 1
   },
   "last_learn": 1795417923.2158566,
   "next_id": 9,
   "next_check": {
-    "BTC-USD": 1795446030,
-    "ETH-USD": 1795446030,
-    "SOL-USD": 1795446030,
-    "EURUSD=X": 1795446030,
-    "GBPUSD=X": 1795446030,
-    "AUDUSD=X": 1795446030,
-    "NZDUSD=X": 1795446030,
-    "GC=F": 1795446030,
-    "SI=F": 1795446030,
-    "CL=F": 1795446030,
-    "HG=F": 1795446030
+    "BTC-USD": 1795449630,
+    "ETH-USD": 1795449630,
+    "SOL-USD": 1795449630,
+    "EURUSD=X": 1795449630,
+    "GBPUSD=X": 1795449630,
+    "AUDUSD=X": 1795449630,
+    "NZDUSD=X": 1795449630,
+    "GC=F": 1795449630,
+    "SI=F": 1795449630,
+    "CL=F": 1795449630,
+    "HG=F": 1795449630
   },
   "src_pref": {
     "BTC-USD": 0,
