@@ -171,3 +171,5 @@
 [2026-11-23 07:12:03 UTC] Daily report written: /home/runner/work/paper-trading-agent/paper-trading-agent/reports/2026-11-23.md
 [2026-11-23 08:07:16 UTC] Paper trading agent v2.2 started in /home/runner/work/paper-trading-agent/paper-trading-agent - strategy v3, 11 markets, longs on, shorts on, Yahoo client curl_cffi, equity $991.23. Paper money only.
 [2026-11-23 08:07:18 UTC] equity $990.56  free cash $914.55  v3  |  open: Crude oil long
+[2026-11-23 09:21:38 UTC] Paper trading agent v2.2 started in /home/runner/work/paper-trading-agent/paper-trading-agent - strategy v3, 11 markets, longs on, shorts on, Yahoo client curl_cffi, equity $990.56. Paper money only.
+[2026-11-23 09:21:39 UTC] equity $988.69  free cash $914.55  v3  |  open: Crude oil long

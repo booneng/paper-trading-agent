@@ -77,3 +77,6 @@ In the 12h after exit price moved up to 0.8 ATR further in the trade's direction
 **Why it failed:** It moved only +0.6 ATR our way before failing. Closed early when momentum reversed, which kept the loss small. Likely contributors: the market was choppy (trend efficiency 0.01).
 
 **Tags:** choppy, short, forex
+
+## #1 FOLLOW-UP NZD/USD
+In the 12h after exit price moved up to 0.4 ATR further in the trade's direction and 1.8 ATR against it. No strong verdict on the exit.
