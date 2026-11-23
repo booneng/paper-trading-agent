@@ -80,3 +80,19 @@ In the 12h after exit price moved up to 0.8 ATR further in the trade's direction
 
 ## #1 FOLLOW-UP NZD/USD
 In the 12h after exit price moved up to 0.4 ATR further in the trade's direction and 1.8 ATR against it. No strong verdict on the exit.
+
+## #6 OPEN SHORT EUR/USD - 2026-11-23 11:00 UTC
+**Sold short** 2975.49 @ 1.0961 ($3,261.56 exposure, 10x leverage, margin $326.16, strategy v3)
+
+**Why:** EUR/USD: fast EMA crossed BELOW the slow EMA on this candle, price below the trend EMA (trend EMA slope -0.01%/10h). RSI 38, trend efficiency 0.23 (moderate trend), price 1.9 ATR below the slow EMA, 100% of forex in downtrends, hourly volatility 0.09%.
+
+**Plan:** stop 1.0981 (+2.0 ATR), target 1.0922 (-4.0 ATR), trailing 2.5 ATR. Risking about $5.81 (0.6% of equity).
+
+## #3 CLOSE LONG Crude oil - 2026-11-23 11:00 UTC
+**Result:** LOSS -7.93 USD (-1.02R) after 13h, exit by stop loss @ 82.3810 (entry 84.0036)
+
+**What happened:** best point +0.0 ATR in our favour, worst -2.6 ATR against, exited at -2.0 ATR.
+
+**Why it failed:** The setup never worked: instead of continuing to rise, price turned against the trade almost immediately. Likely contributors: the market was choppy (trend efficiency 0.15); most other commodity instruments were trending the other way.
+
+**Tags:** immediate_reversal, choppy, against_market, long, commodity
