@@ -1,6 +1,6 @@
 
-Equity $991.08 (-0.89%)  free cash $914.55  strategy v3  agent 2.2  since 2026-11-19 15:01 UTC
-  OPEN #3 long  Crude oil entry 84.0036 now 83.1800 stop 82.4140 target 87.1828 uP&L -4.03
+Equity $988.35 (-1.16%)  free cash $914.55  strategy v3  agent 2.2  since 2026-11-19 15:01 UTC
+  OPEN #3 long  Crude oil entry 84.0036 now 82.6100 stop 82.4140 target 87.1828 uP&L -6.76
   Closed 4, win rate 25%, -0.21R avg, P&L -4.89
   Lessons: All short trades: 4 trades, win rate 25%, -0.21R avg, -4.89 USD.
 
