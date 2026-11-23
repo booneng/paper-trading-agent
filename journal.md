@@ -103,3 +103,19 @@ In the 12h after exit price moved up to 0.4 ATR further in the trade's direction
 **Why:** GBP/USD: fast EMA crossed BELOW the slow EMA on this candle, price below the trend EMA (trend EMA slope -0.05%/10h). RSI 38, trend efficiency 0.12 (choppy), price 1.8 ATR below the slow EMA, 100% of forex in downtrends, hourly volatility 0.11%.
 
 **Plan:** stop 1.3109 (+2.0 ATR), target 1.3026 (-4.0 ATR), trailing 2.5 ATR. Risking about $6.91 (0.7% of equity).
+
+## #6 CLOSE SHORT EUR/USD - 2026-11-23 13:00 UTC
+**Result:** WIN +11.30 USD (+1.94R) after 2h, exit by target @ 1.0923 (entry 1.0961)
+
+**What happened:** best point +4.8 ATR in our favour, worst -0.6 ATR against, exited at +3.9 ATR.
+
+**Why it worked:** The thesis played out: the downtrend carried price to the target.
+
+**Tags:** clean_win, short, forex
+
+## #8 OPEN SHORT Crude oil - 2026-11-23 13:00 UTC
+**Sold short** 4.97917 @ 81.2975 ($404.79 exposure, 5x leverage, margin $80.96, strategy v3)
+
+**Why:** Crude oil: fast EMA crossed BELOW the slow EMA 1h ago, price below the trend EMA (trend EMA slope -0.21%/10h). RSI 36, trend efficiency 0.11 (choppy), price 1.9 ATR below the slow EMA, volume 2.0x average, 100% of commodity in downtrends, hourly volatility 0.93%.
+
+**Plan:** stop 82.8062 (+2.0 ATR), target 78.2800 (-4.0 ATR), trailing 2.5 ATR. Risking about $7.67 (0.8% of equity).

@@ -184,3 +184,7 @@
 [2026-11-23 13:07:21 UTC] Paper trading agent v2.2 started in /home/runner/work/paper-trading-agent/paper-trading-agent - strategy v3, 11 markets, longs on, shorts on, Yahoo client curl_cffi, equity $986.85. Paper money only.
 [2026-11-23 13:07:22 UTC] >> SHORT #7 GBP/USD 2500.36 @ 1.3081 - GBP/USD: fast EMA crossed BELOW the slow EMA on this candle, price below the trend EMA (trend EMA slope -0.05%/10h). RSI 38, trend efficiency 0.12 (choppy), price 1.8 ATR below the slow EMA, 100% of forex in downtrends, hourly volatility 0.11%.
 [2026-11-23 13:07:22 UTC] equity $990.74  free cash $333.95  v3  |  open: EUR/USD short, GBP/USD short
+[2026-11-23 14:07:52 UTC] Paper trading agent v2.2 started in /home/runner/work/paper-trading-agent/paper-trading-agent - strategy v3, 11 markets, longs on, shorts on, Yahoo client curl_cffi, equity $990.74. Paper money only.
+[2026-11-23 14:07:53 UTC] >> CLOSE #6 short EUR/USD @ 1.0923 (target) P&L +11.30 (+1.94R) - The thesis played out: the downtrend carried price to the target.
+[2026-11-23 14:07:54 UTC] >> SHORT #8 Crude oil 4.97917 @ 81.2975 - Crude oil: fast EMA crossed BELOW the slow EMA 1h ago, price below the trend EMA (trend EMA slope -0.21%/10h). RSI 36, trend efficiency 0.11 (choppy), price 1.9 ATR below the slow EMA, volume 2.0x average, 100% of commodity in downtrends, hourly volatility 0.93%.
+[2026-11-23 14:07:54 UTC] equity $1,001.38  free cash $590.36  v3  |  open: GBP/USD short, Crude oil short
