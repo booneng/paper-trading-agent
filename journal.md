@@ -68,3 +68,12 @@ In the 12h after exit price moved up to 0.9 ATR further in the trade's direction
 
 ## #4 FOLLOW-UP Solana
 In the 12h after exit price moved up to 0.8 ATR further in the trade's direction and 1.3 ATR against it. No strong verdict on the exit.
+
+## #2 CLOSE SHORT EUR/USD - 2026-11-23 02:00 UTC
+**Result:** LOSS -5.01 USD (-0.71R) after 7h, exit by trend reversal @ 1.0988 (entry 1.0971)
+
+**What happened:** best point +0.6 ATR in our favour, worst -1.6 ATR against, exited at -1.4 ATR.
+
+**Why it failed:** It moved only +0.6 ATR our way before failing. Closed early when momentum reversed, which kept the loss small. Likely contributors: the market was choppy (trend efficiency 0.01).
+
+**Tags:** choppy, short, forex

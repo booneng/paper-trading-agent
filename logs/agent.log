@@ -156,3 +156,10 @@
 [2026-11-22 22:26:12 UTC] Current strategy v3: train +0.83% (DD 13.5%, 225 trades) | unseen +6.31% (DD 11.4%, 125 trades)
 [2026-11-22 22:26:14 UTC] No change adopted.
 [2026-11-22 22:26:14 UTC] Daily report written: /home/runner/work/paper-trading-agent/paper-trading-agent/reports/2026-11-22.md
+[2026-11-23 03:41:38 UTC] Paper trading agent v2.2 started in /home/runner/work/paper-trading-agent/paper-trading-agent - strategy v3, 11 markets, longs on, shorts on, Yahoo client curl_cffi, equity $996.14. Paper money only.
+[2026-11-23 03:41:39 UTC] >> CLOSE #2 short EUR/USD @ 1.0988 (trend reversal) P&L -5.01 (-0.71R) - It moved only +0.6 ATR our way before failing. Closed early when momentum reversed, which kept the loss small. Likely contributors: the market was choppy (trend efficiency 0.01).
+[2026-11-23 03:41:39 UTC] equity $990.22  free cash $914.55  v3  |  open: Crude oil long
+[2026-11-23 03:41:39 UTC] Learning: loading 90 days of hourly prices for 11 markets...
+[2026-11-23 03:41:50 UTC] Current strategy v3: train +4.00% (DD 13.5%, 221 trades) | unseen +5.13% (DD 11.3%, 125 trades)
+[2026-11-23 03:41:51 UTC] No change adopted.
+[2026-11-23 03:41:51 UTC] Daily report written: /home/runner/work/paper-trading-agent/paper-trading-agent/reports/2026-11-23.md
