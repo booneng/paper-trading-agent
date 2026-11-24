@@ -134,3 +134,6 @@ In the 12h after exit price moved up to 6.2 ATR further in the trade's direction
 
 ## #3 FOLLOW-UP Crude oil
 In the 12h after exit price moved up to 0.2 ATR further in the trade's direction and 3.2 ATR against it. Price moved further against the position after the exit: getting out was right. Tag: good_exit
+
+## #6 FOLLOW-UP EUR/USD
+In the 12h after exit price moved up to 3.9 ATR further in the trade's direction and 2.6 ATR against it. The move kept going after the exit: the exit was early. Tag: exited_early
