@@ -256,3 +256,5 @@
 [2026-11-24 16:07:12 UTC] Paper trading agent v2.2 started in /home/runner/work/paper-trading-agent/paper-trading-agent - strategy v3, 11 markets, longs on, shorts on, Yahoo client curl_cffi, equity $1,002.18. Paper money only.
 [2026-11-24 16:07:13 UTC] >> LONG  #14 NZD/USD 1474.72 @ 0.54833 - NZD/USD: fast EMA crossed ABOVE the slow EMA 2h ago, price above the trend EMA (trend EMA slope -0.06%/10h). RSI 65, trend efficiency 0.42 (clean trend), price 2.3 ATR above the slow EMA, 75% of forex in uptrends, hourly volatility 0.15%.
 [2026-11-24 16:07:13 UTC] equity $1,012.38  free cash $0.08  v3  |  open: Bitcoin short, Ethereum short, EUR/USD long, Gold short, NZD/USD long
+[2026-11-24 17:07:27 UTC] Paper trading agent v2.2 started in /home/runner/work/paper-trading-agent/paper-trading-agent - strategy v3, 11 markets, longs on, shorts on, Yahoo client curl_cffi, equity $1,012.38. Paper money only.
+[2026-11-24 17:07:28 UTC] equity $1,014.70  free cash $0.08  v3  |  open: Bitcoin short, Ethereum short, EUR/USD long, Gold short, NZD/USD long
