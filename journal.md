@@ -131,3 +131,6 @@ In the 12h after exit price moved up to 6.2 ATR further in the trade's direction
 **Why it worked:** The thesis played out: the downtrend carried price to the target. It won despite: the market was choppy (trend efficiency 0.12).
 
 **Tags:** clean_win, choppy, short, forex
+
+## #3 FOLLOW-UP Crude oil
+In the 12h after exit price moved up to 0.2 ATR further in the trade's direction and 3.2 ATR against it. Price moved further against the position after the exit: getting out was right. Tag: good_exit
