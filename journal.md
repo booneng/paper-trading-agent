@@ -151,3 +151,6 @@ In the 12h after exit price moved up to 3.9 ATR further in the trade's direction
 **Why:** Ethereum: fast EMA crossed BELOW the slow EMA 1h ago, price below the trend EMA (trend EMA slope -0.04%/10h). RSI 35, trend efficiency 0.17 (choppy), price 1.7 ATR below the slow EMA, volume 0.8x average, 100% of crypto in downtrends, hourly volatility 1.36%.
 
 **Plan:** stop 1,727.69 (+2.0 ATR), target 1,590.06 (-4.0 ATR), trailing 2.5 ATR. Risking about $8.19 (0.8% of equity).
+
+## #7 FOLLOW-UP GBP/USD
+In the 12h after exit price moved up to 1.2 ATR further in the trade's direction and 1.5 ATR against it. No strong verdict on the exit.

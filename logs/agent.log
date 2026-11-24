@@ -219,3 +219,5 @@
 [2026-11-24 03:07:16 UTC] >> SHORT #9 Bitcoin 0.00545683 @ 59,971.98 - Bitcoin: fast EMA crossed BELOW the slow EMA on this candle, price below the trend EMA (trend EMA slope -0.03%/10h). RSI 35, trend efficiency 0.20 (moderate trend), price 1.8 ATR below the slow EMA, volume 0.9x average, 100% of crypto in downtrends, hourly volatility 1.17%.
 [2026-11-24 03:07:16 UTC] >> SHORT #10 Ethereum 0.166413 @ 1,681.81 - Ethereum: fast EMA crossed BELOW the slow EMA 1h ago, price below the trend EMA (trend EMA slope -0.04%/10h). RSI 35, trend efficiency 0.17 (choppy), price 1.7 ATR below the slow EMA, volume 0.8x average, 100% of crypto in downtrends, hourly volatility 1.36%.
 [2026-11-24 03:07:18 UTC] equity $1,016.66  free cash $323.11  v3  |  open: Crude oil short, Bitcoin short, Ethereum short
+[2026-11-24 04:07:15 UTC] Paper trading agent v2.2 started in /home/runner/work/paper-trading-agent/paper-trading-agent - strategy v3, 11 markets, longs on, shorts on, Yahoo client curl_cffi, equity $1,016.66. Paper money only.
+[2026-11-24 04:07:17 UTC] equity $1,014.61  free cash $323.11  v3  |  open: Crude oil short, Bitcoin short, Ethereum short
