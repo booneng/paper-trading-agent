@@ -154,3 +154,10 @@ In the 12h after exit price moved up to 3.9 ATR further in the trade's direction
 
 ## #7 FOLLOW-UP GBP/USD
 In the 12h after exit price moved up to 1.2 ATR further in the trade's direction and 1.5 ATR against it. No strong verdict on the exit.
+
+## #11 OPEN SHORT Silver - 2026-11-24 08:00 UTC
+**Sold short** 7.71626 @ 41.8483 ($322.91 exposure, 5x leverage, margin $64.58, strategy v3)
+
+**Why:** Silver: fast EMA crossed BELOW the slow EMA 2h ago, price below the trend EMA (trend EMA slope -0.59%/10h). RSI 39, trend efficiency 0.09 (choppy), price 1.5 ATR below the slow EMA, volume 0.8x average, 100% of commodity in downtrends, hourly volatility 1.18%.
+
+**Plan:** stop 42.8343 (+2.0 ATR), target 39.8762 (-4.0 ATR), trailing 2.5 ATR. Risking about $7.74 (0.8% of equity).
