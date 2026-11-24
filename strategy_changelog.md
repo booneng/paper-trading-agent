@@ -83,3 +83,10 @@ Data: last 90 days, 11 markets; tuned on the first 2/3, checked on the last 1/3 
 - By side and market over all 90 days: long 149 trades -4.69 USD; short 197 trades +79.35 USD; crypto 106 trades +17.77 USD; forex 145 trades +117.52 USD; commodity 95 trades -60.63 USD
 - No change: min_er 0.0->0.1 looked better in training (+2.83%) but not on unseen data (+1.25%, 100 trades); take_profit_atr 4.0->5.0 looked better in training (+4.34%) but not on unseen data (+3.70%, 126 trades); stop_atr 2.0->2.5 looked better in training (+2.71%) but not on unseen data (+3.88%, 123 trades). Rejected as likely overfitting.
 - Lessons from live trades so far: All short trades: 4 trades, win rate 25%, -0.21R avg, -4.89 USD.
+
+## 2026-11-24 08:07 UTC - daily learning (strategy v3, agent 2.2)
+Data: last 90 days, 11 markets; tuned on the first 2/3, checked on the last 1/3 (unseen).
+- Current: train +0.78% (max DD 13.5%, 217 trades, win 34%) | unseen +10.23% (max DD 9.2%, 124 trades)
+- By side and market over all 90 days: long 147 trades -39.32 USD; short 194 trades +138.97 USD; crypto 101 trades +18.87 USD; forex 145 trades +126.58 USD; commodity 95 trades -45.80 USD
+- No change: min_er 0.0->0.1 looked better in training (+0.97%) but not on unseen data (+6.22%, 100 trades); stop_atr 2.0->2.5 looked better in training (+1.32%) but not on unseen data (+8.77%, 122 trades); take_profit_atr 4.0->5.0 looked better in training (+1.25%) but not on unseen data (+9.40%, 125 trades). Rejected as likely overfitting.
+- Lessons from live trades so far: All short trades: 6 trades, win rate 50%, +0.51R avg, +19.82 USD. All forex trades: 4 trades, win rate 75%, +1.27R avg, +34.21 USD.

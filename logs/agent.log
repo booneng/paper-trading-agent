@@ -227,3 +227,9 @@
 [2026-11-24 06:14:48 UTC] equity $1,011.70  free cash $323.11  v3  |  open: Crude oil short, Bitcoin short, Ethereum short
 [2026-11-24 07:07:14 UTC] Paper trading agent v2.2 started in /home/runner/work/paper-trading-agent/paper-trading-agent - strategy v3, 11 markets, longs on, shorts on, Yahoo client curl_cffi, equity $1,011.70. Paper money only.
 [2026-11-24 07:07:15 UTC] equity $1,011.99  free cash $323.11  v3  |  open: Crude oil short, Bitcoin short, Ethereum short
+[2026-11-24 08:07:17 UTC] Paper trading agent v2.2 started in /home/runner/work/paper-trading-agent/paper-trading-agent - strategy v3, 11 markets, longs on, shorts on, Yahoo client curl_cffi, equity $1,011.99. Paper money only.
+[2026-11-24 08:07:20 UTC] equity $1,012.60  free cash $323.11  v3  |  open: Crude oil short, Bitcoin short, Ethereum short
+[2026-11-24 08:07:20 UTC] Learning: loading 90 days of hourly prices for 11 markets...
+[2026-11-24 08:07:31 UTC] Current strategy v3: train +0.78% (DD 13.5%, 217 trades) | unseen +10.23% (DD 9.2%, 124 trades)
+[2026-11-24 08:07:33 UTC] No change adopted.
+[2026-11-24 08:07:33 UTC] Daily report written: /home/runner/work/paper-trading-agent/paper-trading-agent/reports/2026-11-24.md
