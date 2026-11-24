@@ -1,9 +1,9 @@
 
-Equity $1,016.81 (+1.68%)  free cash $258.47  strategy v3  agent 2.2  since 2026-11-19 15:01 UTC
-  OPEN #8 short Crude oil entry 81.2975 now 79.6100 stop 81.2632 target 78.2800 uP&L +8.32
-  OPEN #9 short Bitcoin   entry 59,971.98 now 60,177.96 stop 61,371.72 target 57,172.49 uP&L -1.45
-  OPEN #10 short Ethereum  entry 1,681.81 now 1,690.70 stop 1,727.69 target 1,590.06 uP&L -1.76
-  OPEN #11 short Silver    entry 41.8483 now 41.8650 stop 42.8343 target 39.8762 uP&L -0.19
+Equity $1,018.22 (+1.82%)  free cash $258.47  strategy v3  agent 2.2  since 2026-11-19 15:01 UTC
+  OPEN #8 short Crude oil entry 81.2975 now 80.0600 stop 81.2632 target 78.2800 uP&L +6.08
+  OPEN #9 short Bitcoin   entry 59,971.98 now 59,908.53 stop 61,371.72 target 57,172.49 uP&L +0.02
+  OPEN #10 short Ethereum  entry 1,681.81 now 1,681.79 stop 1,727.69 target 1,590.06 uP&L -0.28
+  OPEN #11 short Silver    entry 41.8483 now 41.7750 stop 42.8343 target 39.8762 uP&L +0.50
   Closed 7, win rate 43%, +0.29R avg, P&L +11.89
   Lessons: All short trades: 6 trades, win rate 50%, +0.51R avg, +19.82 USD. All forex trades: 4 trades, win rate 75%, +1.27R avg, +34.21 USD.
 
