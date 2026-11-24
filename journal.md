@@ -177,3 +177,19 @@ In the 12h after exit price moved up to 1.2 ATR further in the trade's direction
 **Why it failed:** The setup never worked: instead of continuing to fall, price turned against the trade almost immediately. Likely contributors: the market was choppy (trend efficiency 0.09).
 
 **Tags:** immediate_reversal, choppy, short, commodity
+
+## #13 OPEN SHORT Gold - 2026-11-24 14:00 UTC
+**Sold short** 0.0786065 @ 3,620.58 ($284.60 exposure, 5x leverage, margin $56.92, strategy v3)
+
+**Why:** Gold: fast EMA crossed BELOW the slow EMA on this candle, price below the trend EMA (trend EMA slope -0.25%/10h). RSI 47, trend efficiency 0.19 (choppy), price 0.3 ATR below the slow EMA, volume 2.2x average, 100% of commodity in downtrends, hourly volatility 0.57%.
+
+**Plan:** stop 3,662.13 (+2.0 ATR), target 3,537.46 (-4.0 ATR), trailing 2.5 ATR. Risking about $3.38 (0.3% of equity).
+
+## #8 CLOSE SHORT Crude oil - 2026-11-24 14:00 UTC
+**Result:** LOSS -0.15 USD (-0.02R) after 24h, exit by trailing stop @ 81.2957 (entry 81.2975)
+
+**What happened:** best point +3.0 ATR in our favour, worst -1.2 ATR against, exited at +0.0 ATR.
+
+**Why it failed:** It was +3.0 ATR in profit but the gain was lost - the exits were too loose to protect it. Likely contributors: the market was choppy (trend efficiency 0.11).
+
+**Tags:** gave_back, choppy, short, commodity
