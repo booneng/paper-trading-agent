@@ -246,3 +246,4 @@
 [2026-11-24 13:19:19 UTC] >> LONG  #12 EUR/USD 2354.88 @ 1.0965 - EUR/USD: fast EMA crossed ABOVE the slow EMA on this candle, price above the trend EMA (trend EMA slope -0.07%/10h). RSI 67, trend efficiency 0.58 (clean trend), price 2.7 ATR above the slow EMA, 100% of forex in uptrends, hourly volatility 0.11%.
 [2026-11-24 13:19:20 UTC] >> CLOSE #11 short Silver @ 42.8514 (stop loss) P&L -7.87 (-1.02R) - The setup never worked: instead of continuing to fall, price turned against the trade almost immediately. Likely contributors: the market was choppy (trend efficiency 0.09).
 [2026-11-24 13:19:20 UTC] equity $1,001.90  free cash $57.03  v3  |  open: Crude oil short, Bitcoin short, Ethereum short, EUR/USD long
+[2026-11-24 13:33:51 UTC] Paper trading agent v2.2 started in /home/runner/work/paper-trading-agent/paper-trading-agent - strategy v3, 11 markets, longs on, shorts on, Yahoo client curl_cffi, equity $1,001.90. Paper money only.
