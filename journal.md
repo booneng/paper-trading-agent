@@ -193,3 +193,10 @@ In the 12h after exit price moved up to 1.2 ATR further in the trade's direction
 **Why it failed:** It was +3.0 ATR in profit but the gain was lost - the exits were too loose to protect it. Likely contributors: the market was choppy (trend efficiency 0.11).
 
 **Tags:** gave_back, choppy, short, commodity
+
+## #14 OPEN LONG NZD/USD - 2026-11-24 15:00 UTC
+**Bought** 1474.72 @ 0.54833 ($808.63 exposure, 10x leverage, margin $80.86, strategy v3)
+
+**Why:** NZD/USD: fast EMA crossed ABOVE the slow EMA 2h ago, price above the trend EMA (trend EMA slope -0.06%/10h). RSI 65, trend efficiency 0.42 (clean trend), price 2.3 ATR above the slow EMA, 75% of forex in uptrends, hourly volatility 0.15%.
+
+**Plan:** stop 0.54668 (-2.0 ATR), target 0.55163 (+4.0 ATR), trailing 2.5 ATR. Risking about $2.43 (0.2% of equity).
