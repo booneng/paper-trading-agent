@@ -161,3 +161,19 @@ In the 12h after exit price moved up to 1.2 ATR further in the trade's direction
 **Why:** Silver: fast EMA crossed BELOW the slow EMA 2h ago, price below the trend EMA (trend EMA slope -0.59%/10h). RSI 39, trend efficiency 0.09 (choppy), price 1.5 ATR below the slow EMA, volume 0.8x average, 100% of commodity in downtrends, hourly volatility 1.18%.
 
 **Plan:** stop 42.8343 (+2.0 ATR), target 39.8762 (-4.0 ATR), trailing 2.5 ATR. Risking about $7.74 (0.8% of equity).
+
+## #12 OPEN LONG EUR/USD - 2026-11-24 12:00 UTC
+**Bought** 2354.88 @ 1.0965 ($2,582.09 exposure, 10x leverage, margin $258.21, strategy v3)
+
+**Why:** EUR/USD: fast EMA crossed ABOVE the slow EMA on this candle, price above the trend EMA (trend EMA slope -0.07%/10h). RSI 67, trend efficiency 0.58 (clean trend), price 2.7 ATR above the slow EMA, 100% of forex in uptrends, hourly volatility 0.11%.
+
+**Plan:** stop 1.0941 (-2.0 ATR), target 1.1012 (+4.0 ATR), trailing 2.5 ATR. Risking about $5.55 (0.6% of equity).
+
+## #11 CLOSE SHORT Silver - 2026-11-24 12:00 UTC
+**Result:** LOSS -7.87 USD (-1.02R) after 4h, exit by stop loss @ 42.8514 (entry 41.8483)
+
+**What happened:** best point +0.4 ATR in our favour, worst -2.7 ATR against, exited at -2.0 ATR.
+
+**Why it failed:** The setup never worked: instead of continuing to fall, price turned against the trade almost immediately. Likely contributors: the market was choppy (trend efficiency 0.09).
+
+**Tags:** immediate_reversal, choppy, short, commodity
