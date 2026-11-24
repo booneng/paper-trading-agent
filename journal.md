@@ -137,3 +137,17 @@ In the 12h after exit price moved up to 0.2 ATR further in the trade's direction
 
 ## #6 FOLLOW-UP EUR/USD
 In the 12h after exit price moved up to 3.9 ATR further in the trade's direction and 2.6 ATR against it. The move kept going after the exit: the exit was early. Tag: exited_early
+
+## #9 OPEN SHORT Bitcoin - 2026-11-24 02:00 UTC
+**Sold short** 0.00545683 @ 59,971.98 ($327.26 exposure, strategy v3)
+
+**Why:** Bitcoin: fast EMA crossed BELOW the slow EMA on this candle, price below the trend EMA (trend EMA slope -0.03%/10h). RSI 35, trend efficiency 0.20 (moderate trend), price 1.8 ATR below the slow EMA, volume 0.9x average, 100% of crypto in downtrends, hourly volatility 1.17%.
+
+**Plan:** stop 61,371.72 (+2.0 ATR), target 57,172.49 (-4.0 ATR), trailing 2.5 ATR. Risking about $8.29 (0.8% of equity).
+
+## #10 OPEN SHORT Ethereum - 2026-11-24 02:00 UTC
+**Sold short** 0.166413 @ 1,681.81 ($279.88 exposure, strategy v3)
+
+**Why:** Ethereum: fast EMA crossed BELOW the slow EMA 1h ago, price below the trend EMA (trend EMA slope -0.04%/10h). RSI 35, trend efficiency 0.17 (choppy), price 1.7 ATR below the slow EMA, volume 0.8x average, 100% of crypto in downtrends, hourly volatility 1.36%.
+
+**Plan:** stop 1,727.69 (+2.0 ATR), target 1,590.06 (-4.0 ATR), trailing 2.5 ATR. Risking about $8.19 (0.8% of equity).
