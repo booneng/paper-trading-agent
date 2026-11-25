@@ -222,3 +222,12 @@ In the 12h after exit price moved up to 4.8 ATR further in the trade's direction
 
 ## #8 FOLLOW-UP Crude oil
 In the 12h after exit price moved up to 2.4 ATR further in the trade's direction and 1.1 ATR against it. No strong verdict on the exit.
+
+## #14 CLOSE LONG NZD/USD - 2026-11-25 03:00 UTC
+**Result:** LOSS -2.31 USD (-0.95R) after 12h, exit by trailing stop @ 0.54676 (entry 0.54833)
+
+**What happened:** best point +1.1 ATR in our favour, worst -2.0 ATR against, exited at -1.9 ATR.
+
+**Why it failed:** It moved only +1.1 ATR our way before failing. Likely contributors: entry was late, 2.3 ATR beyond the slow EMA.
+
+**Tags:** extended, long, forex
