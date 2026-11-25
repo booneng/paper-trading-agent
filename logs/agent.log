@@ -294,3 +294,8 @@
 [2026-11-25 08:07:21 UTC] Paper trading agent v2.2 started in /home/runner/work/paper-trading-agent/paper-trading-agent - strategy v3, 11 markets, longs on, shorts on, Yahoo client curl_cffi, equity $1,014.73. Paper money only.
 [2026-11-25 08:07:22 UTC] >> SHORT #16 EUR/USD 3036.64 @ 1.0936 - EUR/USD: fast EMA crossed BELOW the slow EMA on this candle, price below the trend EMA (trend EMA slope -0.02%/10h). RSI 38, trend efficiency 0.30 (moderate trend), price 1.6 ATR below the slow EMA, 100% of forex in downtrends, hourly volatility 0.08%.
 [2026-11-25 08:07:22 UTC] equity $1,021.57  free cash $0.33  v3  |  open: Bitcoin short, Ethereum short, AUD/USD short, EUR/USD short
+[2026-11-25 08:21:09 UTC] Paper trading agent v2.2 started in /home/runner/work/paper-trading-agent/paper-trading-agent - strategy v3, 11 markets, longs on, shorts on, Yahoo client curl_cffi, equity $1,021.57. Paper money only.
+[2026-11-25 08:21:09 UTC] Learning: loading 90 days of hourly prices for 11 markets...
+[2026-11-25 08:21:23 UTC] Current strategy v3: train +0.79% (DD 13.5%, 218 trades) | unseen +11.23% (DD 9.2%, 129 trades)
+[2026-11-25 08:21:25 UTC] Adopted change stop_atr: 2.0 -> 2.5 (strategy v4)
+[2026-11-25 08:21:25 UTC] Daily report written: /home/runner/work/paper-trading-agent/paper-trading-agent/reports/2026-11-25.md

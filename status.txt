@@ -1,5 +1,5 @@
 
-Equity $1,021.57 (+2.16%)  free cash $0.33  strategy v3  agent 2.2  since 2026-11-19 15:01 UTC
+Equity $1,021.57 (+2.16%)  free cash $0.33  strategy v4  agent 2.2  since 2026-11-19 15:01 UTC
   OPEN #9 short Bitcoin   entry 59,971.98 now 58,654.49 stop 59,988.64 target 57,172.49 uP&L +6.86
   OPEN #10 short Ethereum  entry 1,681.81 now 1,638.61 stop 1,681.72 target 1,590.06 uP&L +6.91
   OPEN #15 short AUD/USD   entry 0.66136 now 0.65656 stop 0.65970 target 0.65640 uP&L +4.61
