@@ -1,7 +1,7 @@
 
-Equity $1,001.69 (+0.17%)  free cash $578.54  strategy v4  agent 2.2  since 2026-11-19 15:01 UTC
-  OPEN #18 long  NZD/USD   entry 0.54890 now 0.54885 stop 0.54708 target 0.55250 uP&L -0.17
-  OPEN #19 long  GBP/USD   entry 1.3126 now 1.3116 stop 1.3086 target 1.3192 uP&L -1.87
+Equity $1,000.90 (+0.09%)  free cash $578.54  strategy v4  agent 2.2  since 2026-11-19 15:01 UTC
+  OPEN #18 long  NZD/USD   entry 0.54890 now 0.54867 stop 0.54708 target 0.55250 uP&L -0.77
+  OPEN #19 long  GBP/USD   entry 1.3126 now 1.3115 stop 1.3086 target 1.3192 uP&L -2.06
   Closed 17, win rate 41%, +0.10R avg, P&L +3.73
   Lessons: Trades with lower trend efficiency (split at 0.148) did better: +0.29R vs -0.08R per trade. Trades with higher distance beyond the slow EMA (split at 1.66) did better: +0.38R vs -0.22R per trade. All short trades: 14 trades, win rate 50%, +0.32R avg, +18.37 USD. All crypto trades: 4 trades, win rate 50%, -0.43R avg, -11.61 USD. All forex trades: 9 trades, win rate 44%, +0.40R avg, +24.93 USD. All commodity trades: 4 trades, win rate 25%, -0.05R avg, -9.59 USD.
 

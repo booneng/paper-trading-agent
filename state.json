@@ -34,8 +34,8 @@
       "thesis": "NZD/USD: fast EMA crossed ABOVE the slow EMA on this candle, price above the trend EMA (trend EMA slope -0.05%/10h). RSI 64, trend efficiency 0.04 (choppy), price 2.3 ATR above the slow EMA, 75% of forex in uptrends, hourly volatility 0.16%.",
       "params_version": 4,
       "mfe": 0.6823660211952205,
-      "mae": 0.1554247793226334,
-      "bars": 4
+      "mae": 0.48993170078177023,
+      "bars": 5
     },
     "GBPUSD=X": {
       "id": 19,
@@ -67,8 +67,8 @@
       "thesis": "GBP/USD: fast EMA crossed ABOVE the slow EMA on this candle, price above the trend EMA (trend EMA slope -0.03%/10h). RSI 65, trend efficiency 0.07 (choppy), price 2.4 ATR above the slow EMA, 100% of forex in uptrends, hourly volatility 0.12%.",
       "params_version": 4,
       "mfe": 0.19868663807571085,
-      "mae": 0.7064337876876824,
-      "bars": 3
+      "mae": 0.843127228255395,
+      "bars": 4
     }
   },
   "followups": [
@@ -82,7 +82,7 @@
       "atr": 0.0008535179456166593,
       "code": "stop_loss",
       "win": false,
-      "bars": 9,
+      "bars": 10,
       "hi": 1.0995051860809326,
       "lo": 1.0937328338623047
     },
@@ -96,7 +96,7 @@
       "atr": 0.0007770440645304884,
       "code": "trailing_stop",
       "win": false,
-      "bars": 5,
+      "bars": 6,
       "hi": 0.5495109558105469,
       "lo": 0.547407723618363
     },
@@ -110,7 +110,7 @@
       "atr": 699.8721645479769,
       "code": "trailing_stop",
       "win": true,
-      "bars": 4,
+      "bars": 5,
       "hi": 60428.33,
       "lo": 59408.53
     },
@@ -124,36 +124,36 @@
       "atr": 22.93831766650825,
       "code": "trailing_stop",
       "win": true,
-      "bars": 4,
+      "bars": 5,
       "hi": 1697.0,
       "lo": 1673.46
     }
   ],
   "last_candle": {
-    "BTC-USD": 1795640400,
-    "ETH-USD": 1795640400,
-    "SOL-USD": 1795640400,
-    "EURUSD=X": 1795640400,
-    "GBPUSD=X": 1795640400,
-    "AUDUSD=X": 1795640400,
-    "GC=F": 1795640400,
-    "NZDUSD=X": 1795640400,
-    "SI=F": 1795640400,
-    "CL=F": 1795640400,
-    "HG=F": 1795640400
+    "BTC-USD": 1795644000,
+    "ETH-USD": 1795644000,
+    "SOL-USD": 1795644000,
+    "EURUSD=X": 1795644000,
+    "GBPUSD=X": 1795644000,
+    "AUDUSD=X": 1795644000,
+    "GC=F": 1795643997,
+    "NZDUSD=X": 1795644000,
+    "SI=F": 1795643993,
+    "CL=F": 1795643998,
+    "HG=F": 1795643995
   },
   "last_prices": {
-    "BTC-USD": 60161.82,
-    "ETH-USD": 1684.01,
-    "SOL-USD": 70.56,
+    "BTC-USD": 60027.28,
+    "ETH-USD": 1684.34,
+    "SOL-USD": 70.48,
     "EURUSD=X": 1.0978153944015503,
-    "GBPUSD=X": 1.3116302490234375,
-    "AUDUSD=X": 0.6629980802536011,
-    "GC=F": 3617.0,
-    "NZDUSD=X": 0.5488474369049072,
-    "SI=F": 41.654998779296875,
-    "CL=F": 84.16000366210938,
-    "HG=F": 5.480999946594238
+    "GBPUSD=X": 1.3115270137786865,
+    "AUDUSD=X": 0.6626905202865601,
+    "GC=F": 3617.800048828125,
+    "NZDUSD=X": 0.5486667156219482,
+    "SI=F": 41.66999816894531,
+    "CL=F": 84.1500015258789,
+    "HG=F": 5.481500148773193
   },
   "equity_history": [
     {
@@ -515,27 +515,31 @@
     {
       "time": "2026-11-25 22:07 UTC",
       "equity": 1001.69
+    },
+    {
+      "time": "2026-11-25 23:07 UTC",
+      "equity": 1000.9
     }
   ],
   "skipped": {
-    "weak_volume": 15,
+    "weak_volume": 17,
     "rsi": 6,
     "no_cash": 4
   },
   "last_learn": 1795594885.3053706,
   "next_id": 20,
   "next_check": {
-    "BTC-USD": 1795647630,
-    "ETH-USD": 1795647630,
-    "SOL-USD": 1795647630,
-    "EURUSD=X": 1795647630,
-    "GBPUSD=X": 1795647630,
-    "AUDUSD=X": 1795647630,
-    "NZDUSD=X": 1795647630,
-    "GC=F": 1795647630,
-    "SI=F": 1795647630,
-    "CL=F": 1795647630,
-    "HG=F": 1795647630
+    "BTC-USD": 1795651230,
+    "ETH-USD": 1795651230,
+    "SOL-USD": 1795651230,
+    "EURUSD=X": 1795651230,
+    "GBPUSD=X": 1795651230,
+    "AUDUSD=X": 1795651230,
+    "NZDUSD=X": 1795651230,
+    "GC=F": 1795651227,
+    "SI=F": 1795651223,
+    "CL=F": 1795651228,
+    "HG=F": 1795651225
   },
   "src_pref": {
     "BTC-USD": 0,
