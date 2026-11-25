@@ -322,3 +322,6 @@ In the 12h after exit price moved up to 1.0 ATR further in the trade's direction
 **Why:** GBP/USD: fast EMA crossed ABOVE the slow EMA on this candle, price above the trend EMA (trend EMA slope -0.03%/10h). RSI 65, trend efficiency 0.07 (choppy), price 2.4 ATR above the slow EMA, 100% of forex in uptrends, hourly volatility 0.12%.
 
 **Plan:** stop 1.3086 (-2.5 ATR), target 1.3192 (+4.0 ATR), trailing 2.5 ATR. Risking about $7.53 (0.7% of equity).
+
+## #15 FOLLOW-UP AUD/USD
+In the 12h after exit price moved up to 0.0 ATR further in the trade's direction and 5.8 ATR against it. Price moved further against the position after the exit: getting out was right. Tag: good_exit
