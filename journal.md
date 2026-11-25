@@ -263,3 +263,12 @@ In the 12h after exit price moved up to 2.4 ATR further in the trade's direction
 **Why:** NZD/USD: fast EMA crossed BELOW the slow EMA 1h ago, price below the trend EMA (trend EMA slope -0.04%/10h). RSI 44, trend efficiency 0.11 (choppy), price 0.9 ATR below the slow EMA, 100% of forex in downtrends, hourly volatility 0.14%.
 
 **Plan:** stop 0.54798 (+2.5 ATR), target 0.54293 (-4.0 ATR), trailing 2.5 ATR. Risking about $2.43 (0.2% of equity).
+
+## #16 CLOSE SHORT EUR/USD - 2026-11-25 12:00 UTC
+**Result:** LOSS -5.52 USD (-1.06R) after 5h, exit by stop loss @ 1.0954 (entry 1.0936)
+
+**What happened:** best point +0.2 ATR in our favour, worst -2.4 ATR against, exited at -2.1 ATR.
+
+**Why it failed:** The setup never worked: instead of continuing to fall, price turned against the trade almost immediately. Entry conditions looked healthy, so this is likely normal noise - a loss the strategy expects to take.
+
+**Tags:** immediate_reversal, short, forex
