@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write             # lets the job commit state, trades and journal back to the repo
+  issues: write               # lets the job post trade alerts to the "Trade alerts" issue
 
 concurrency:
   group: paper-trader
@@ -25,6 +26,7 @@ jobs:
       - name: Run one trading cycle (and the daily learning step when due)
         run: |
           mkdir -p logs reports
+          cp journal.md "$RUNNER_TEMP/journal.before" 2>/dev/null || : > "$RUNNER_TEMP/journal.before"
           python3 paper_agent.py run --once 2>&1 | tee -a logs/agent.log
           python3 paper_agent.py status | tee status.txt
 
@@ -41,3 +43,16 @@ jobs:
             sleep 5
           done
           exit 1
+
+      - name: Alert on new trades (comment on the "Trade alerts" issue; GitHub notifies you)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python3 .github/scripts/trade_alerts.py "$RUNNER_TEMP/journal.before" journal.md status.txt > "$RUNNER_TEMP/alert.md"
+          if [ ! -s "$RUNNER_TEMP/alert.md" ]; then echo "No new trades."; exit 0; fi
+          cat "$RUNNER_TEMP/alert.md"
+          n=$(gh issue list --state open --limit 200 --json number,title --jq '[.[] | select(.title == "Trade alerts")][0].number // empty')
+          if [ -z "$n" ]; then
+            n=$(gh issue create --title "Trade alerts" --body "Each new paper trade is posted here as a comment, with its reasoning." | grep -o '[0-9]*$')
+          fi
+          gh issue comment "$n" --body-file "$RUNNER_TEMP/alert.md"
