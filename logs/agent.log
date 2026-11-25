@@ -299,3 +299,7 @@
 [2026-11-25 08:21:23 UTC] Current strategy v3: train +0.79% (DD 13.5%, 218 trades) | unseen +11.23% (DD 9.2%, 129 trades)
 [2026-11-25 08:21:25 UTC] Adopted change stop_atr: 2.0 -> 2.5 (strategy v4)
 [2026-11-25 08:21:25 UTC] Daily report written: /home/runner/work/paper-trading-agent/paper-trading-agent/reports/2026-11-25.md
+[2026-11-25 09:16:30 UTC] Paper trading agent v2.2 started in /home/runner/work/paper-trading-agent/paper-trading-agent - strategy v4, 11 markets, longs on, shorts on, Yahoo client curl_cffi, equity $1,021.57. Paper money only.
+[2026-11-25 09:16:32 UTC] >> CLOSE #15 short AUD/USD @ 0.65650 (target) P&L +4.66 (+1.96R) - The thesis played out: the downtrend carried price to the target. It won despite: the market was choppy (trend efficiency 0.12).
+[2026-11-25 09:16:32 UTC] >> SHORT #17 NZD/USD 1250.57 @ 0.54604 - NZD/USD: fast EMA crossed BELOW the slow EMA 1h ago, price below the trend EMA (trend EMA slope -0.04%/10h). RSI 44, trend efficiency 0.11 (choppy), price 0.9 ATR below the slow EMA, 100% of forex in downtrends, hourly volatility 0.14%.
+[2026-11-25 09:16:32 UTC] equity $1,013.13  free cash $0.07  v4  |  open: Bitcoin short, Ethereum short, EUR/USD short, NZD/USD short

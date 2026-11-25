@@ -247,3 +247,19 @@ In the 12h after exit price moved up to 2.4 ATR further in the trade's direction
 **Why:** EUR/USD: fast EMA crossed BELOW the slow EMA on this candle, price below the trend EMA (trend EMA slope -0.02%/10h). RSI 38, trend efficiency 0.30 (moderate trend), price 1.6 ATR below the slow EMA, 100% of forex in downtrends, hourly volatility 0.08%.
 
 **Plan:** stop 1.0953 (+2.0 ATR), target 1.0902 (-4.0 ATR), trailing 2.5 ATR. Risking about $5.18 (0.5% of equity).
+
+## #15 CLOSE SHORT AUD/USD - 2026-11-25 08:00 UTC
+**Result:** WIN +4.66 USD (+1.96R) after 6h, exit by target @ 0.65650 (entry 0.66136)
+
+**What happened:** best point +4.2 ATR in our favour, worst -0.4 ATR against, exited at +3.9 ATR.
+
+**Why it worked:** The thesis played out: the downtrend carried price to the target. It won despite: the market was choppy (trend efficiency 0.12).
+
+**Tags:** clean_win, choppy, short, forex
+
+## #17 OPEN SHORT NZD/USD - 2026-11-25 08:00 UTC
+**Sold short** 1250.57 @ 0.54604 ($682.86 exposure, 10x leverage, margin $68.29, strategy v4)
+
+**Why:** NZD/USD: fast EMA crossed BELOW the slow EMA 1h ago, price below the trend EMA (trend EMA slope -0.04%/10h). RSI 44, trend efficiency 0.11 (choppy), price 0.9 ATR below the slow EMA, 100% of forex in downtrends, hourly volatility 0.14%.
+
+**Plan:** stop 0.54798 (+2.5 ATR), target 0.54293 (-4.0 ATR), trailing 2.5 ATR. Risking about $2.43 (0.2% of equity).
