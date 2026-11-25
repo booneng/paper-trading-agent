@@ -290,3 +290,28 @@ In the 12h after exit price moved up to 1.0 ATR further in the trade's direction
 **Why it failed:** It moved only +0.9 ATR our way before failing. Likely contributors: the market was choppy (trend efficiency 0.11).
 
 **Tags:** choppy, short, forex
+
+## #9 CLOSE SHORT Bitcoin - 2026-11-25 17:00 UTC
+**Result:** WIN +2.18 USD (+0.26R) (incl. $0.15 short borrow fee) after 39h, exit by trailing stop @ 59,427.16 (entry 59,971.98)
+
+**What happened:** best point +3.9 ATR in our favour, worst -1.0 ATR against, exited at +0.8 ATR.
+
+**Why it worked:** The trend ran +3.9 ATR our way and the trailing stop locked in part of it, but 3.2 ATR of open profit was given back.
+
+**Tags:** gave_back, short, crypto
+
+## #10 CLOSE SHORT Ethereum - 2026-11-25 17:00 UTC
+**Result:** WIN +0.59 USD (+0.07R) (incl. $0.12 short borrow fee) after 39h, exit by trailing stop @ 1,674.13 (entry 1,681.81)
+
+**What happened:** best point +3.3 ATR in our favour, worst -1.1 ATR against, exited at +0.3 ATR.
+
+**Why it worked:** The trend ran +3.3 ATR our way and the trailing stop locked in part of it, but 3.0 ATR of open profit was given back. It won despite: the market was choppy (trend efficiency 0.17).
+
+**Tags:** gave_back, choppy, short, crypto
+
+## #18 OPEN LONG NZD/USD - 2026-11-25 17:00 UTC
+**Bought** 3346.36 @ 0.54890 ($1,836.81 exposure, 10x leverage, margin $183.68, strategy v4)
+
+**Why:** NZD/USD: fast EMA crossed ABOVE the slow EMA on this candle, price above the trend EMA (trend EMA slope -0.05%/10h). RSI 64, trend efficiency 0.04 (choppy), price 2.3 ATR above the slow EMA, 75% of forex in uptrends, hourly volatility 0.16%.
+
+**Plan:** stop 0.54665 (-2.5 ATR), target 0.55250 (+4.0 ATR), trailing 2.5 ATR. Risking about $7.53 (0.8% of equity).
