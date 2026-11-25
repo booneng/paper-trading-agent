@@ -275,3 +275,18 @@ In the 12h after exit price moved up to 2.4 ATR further in the trade's direction
 
 ## #13 FOLLOW-UP Gold
 In the 12h after exit price moved up to 2.0 ATR further in the trade's direction and 1.7 ATR against it. The move kept going after the exit: the exit was early. Tag: exited_early
+
+## #12 FOLLOW-UP EUR/USD
+In the 12h after exit price moved up to 3.0 ATR further in the trade's direction and 0.9 ATR against it. No strong verdict on the exit.
+
+## #14 FOLLOW-UP NZD/USD
+In the 12h after exit price moved up to 1.0 ATR further in the trade's direction and 2.0 ATR against it. Price moved further against the position after the exit: getting out was right. Tag: good_exit
+
+## #17 CLOSE SHORT NZD/USD - 2026-11-25 16:00 UTC
+**Result:** LOSS -1.71 USD (-0.70R) after 8h, exit by trailing stop @ 0.54741 (entry 0.54604)
+
+**What happened:** best point +0.9 ATR in our favour, worst -1.9 ATR against, exited at -1.8 ATR.
+
+**Why it failed:** It moved only +0.9 ATR our way before failing. Likely contributors: the market was choppy (trend efficiency 0.11).
+
+**Tags:** choppy, short, forex
