@@ -272,3 +272,6 @@ In the 12h after exit price moved up to 2.4 ATR further in the trade's direction
 **Why it failed:** The setup never worked: instead of continuing to fall, price turned against the trade almost immediately. Entry conditions looked healthy, so this is likely normal noise - a loss the strategy expects to take.
 
 **Tags:** immediate_reversal, short, forex
+
+## #13 FOLLOW-UP Gold
+In the 12h after exit price moved up to 2.0 ATR further in the trade's direction and 1.7 ATR against it. The move kept going after the exit: the exit was early. Tag: exited_early
