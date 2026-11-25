@@ -315,3 +315,10 @@ In the 12h after exit price moved up to 1.0 ATR further in the trade's direction
 **Why:** NZD/USD: fast EMA crossed ABOVE the slow EMA on this candle, price above the trend EMA (trend EMA slope -0.05%/10h). RSI 64, trend efficiency 0.04 (choppy), price 2.3 ATR above the slow EMA, 75% of forex in uptrends, hourly volatility 0.16%.
 
 **Plan:** stop 0.54665 (-2.5 ATR), target 0.55250 (+4.0 ATR), trailing 2.5 ATR. Risking about $7.53 (0.8% of equity).
+
+## #19 OPEN LONG GBP/USD - 2026-11-25 18:00 UTC
+**Bought** 1839.86 @ 1.3126 ($2,415.09 exposure, 10x leverage, margin $241.51, strategy v4)
+
+**Why:** GBP/USD: fast EMA crossed ABOVE the slow EMA on this candle, price above the trend EMA (trend EMA slope -0.03%/10h). RSI 65, trend efficiency 0.07 (choppy), price 2.4 ATR above the slow EMA, 100% of forex in uptrends, hourly volatility 0.12%.
+
+**Plan:** stop 1.3086 (-2.5 ATR), target 1.3192 (+4.0 ATR), trailing 2.5 ATR. Risking about $7.53 (0.7% of equity).
