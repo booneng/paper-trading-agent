@@ -240,3 +240,10 @@ In the 12h after exit price moved up to 2.4 ATR further in the trade's direction
 **Why it failed:** It was +1.5 ATR in profit but the gain was lost - the exits were too loose to protect it. Likely contributors: entry was late, 2.7 ATR beyond the slow EMA; RSI was already high (67).
 
 **Tags:** gave_back, extended, overbought, long, forex
+
+## #16 OPEN SHORT EUR/USD - 2026-11-25 07:00 UTC
+**Sold short** 3036.64 @ 1.0936 ($3,320.94 exposure, 10x leverage, margin $332.09, strategy v3)
+
+**Why:** EUR/USD: fast EMA crossed BELOW the slow EMA on this candle, price below the trend EMA (trend EMA slope -0.02%/10h). RSI 38, trend efficiency 0.30 (moderate trend), price 1.6 ATR below the slow EMA, 100% of forex in downtrends, hourly volatility 0.08%.
+
+**Plan:** stop 1.0953 (+2.0 ATR), target 1.0902 (-4.0 ATR), trailing 2.5 ATR. Risking about $5.18 (0.5% of equity).
