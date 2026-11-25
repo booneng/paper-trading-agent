@@ -231,3 +231,12 @@ In the 12h after exit price moved up to 2.4 ATR further in the trade's direction
 **Why it failed:** It moved only +1.1 ATR our way before failing. Likely contributors: entry was late, 2.3 ATR beyond the slow EMA.
 
 **Tags:** extended, long, forex
+
+## #12 CLOSE LONG EUR/USD - 2026-11-25 04:00 UTC
+**Result:** LOSS -4.40 USD (-0.79R) after 16h, exit by trailing stop @ 1.0946 (entry 1.0965)
+
+**What happened:** best point +1.5 ATR in our favour, worst -1.5 ATR against, exited at -1.6 ATR.
+
+**Why it failed:** It was +1.5 ATR in profit but the gain was lost - the exits were too loose to protect it. Likely contributors: entry was late, 2.7 ATR beyond the slow EMA; RSI was already high (67).
+
+**Tags:** gave_back, extended, overbought, long, forex
