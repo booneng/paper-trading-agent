@@ -273,3 +273,5 @@
 [2026-11-24 23:27:37 UTC] Paper trading agent v2.2 started in /home/runner/work/paper-trading-agent/paper-trading-agent - strategy v3, 11 markets, longs on, shorts on, Yahoo client curl_cffi, equity $1,009.10. Paper money only.
 [2026-11-25 00:07:16 UTC] Paper trading agent v2.2 started in /home/runner/work/paper-trading-agent/paper-trading-agent - strategy v3, 11 markets, longs on, shorts on, Yahoo client curl_cffi, equity $1,009.10. Paper money only.
 [2026-11-25 00:07:17 UTC] equity $1,012.31  free cash $0.08  v3  |  open: Bitcoin short, Ethereum short, EUR/USD long, Gold short, NZD/USD long
+[2026-11-25 01:07:22 UTC] Paper trading agent v2.2 started in /home/runner/work/paper-trading-agent/paper-trading-agent - strategy v3, 11 markets, longs on, shorts on, Yahoo client curl_cffi, equity $1,012.31. Paper money only.
+[2026-11-25 01:07:23 UTC] equity $1,012.13  free cash $0.08  v3  |  open: Bitcoin short, Ethereum short, EUR/USD long, Gold short, NZD/USD long

@@ -200,3 +200,6 @@ In the 12h after exit price moved up to 1.2 ATR further in the trade's direction
 **Why:** NZD/USD: fast EMA crossed ABOVE the slow EMA 2h ago, price above the trend EMA (trend EMA slope -0.06%/10h). RSI 65, trend efficiency 0.42 (clean trend), price 2.3 ATR above the slow EMA, 75% of forex in uptrends, hourly volatility 0.15%.
 
 **Plan:** stop 0.54668 (-2.0 ATR), target 0.55163 (+4.0 ATR), trailing 2.5 ATR. Risking about $2.43 (0.2% of equity).
+
+## #11 FOLLOW-UP Silver
+In the 12h after exit price moved up to 4.8 ATR further in the trade's direction and 0.0 ATR against it. After the stop, price went well past the entry in our direction: the stop was likely too tight. Tag: shaken_out
