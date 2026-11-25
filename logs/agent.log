@@ -287,3 +287,5 @@
 [2026-11-25 05:07:16 UTC] Paper trading agent v2.2 started in /home/runner/work/paper-trading-agent/paper-trading-agent - strategy v3, 11 markets, longs on, shorts on, Yahoo client curl_cffi, equity $1,010.70. Paper money only.
 [2026-11-25 05:07:17 UTC] >> CLOSE #12 long EUR/USD @ 1.0946 (trailing stop) P&L -4.40 (-0.79R) - It was +1.5 ATR in profit but the gain was lost - the exits were too loose to protect it. Likely contributors: entry was late, 2.7 ATR beyond the slow EMA; RSI was already high (67).
 [2026-11-25 05:07:17 UTC] equity $1,013.20  free cash $332.43  v3  |  open: Bitcoin short, Ethereum short, AUD/USD short
+[2026-11-25 06:07:15 UTC] Paper trading agent v2.2 started in /home/runner/work/paper-trading-agent/paper-trading-agent - strategy v3, 11 markets, longs on, shorts on, Yahoo client curl_cffi, equity $1,013.20. Paper money only.
+[2026-11-25 06:07:15 UTC] equity $1,014.34  free cash $332.43  v3  |  open: Bitcoin short, Ethereum short, AUD/USD short
