@@ -212,3 +212,13 @@ In the 12h after exit price moved up to 4.8 ATR further in the trade's direction
 **Why it worked:** The thesis played out: the downtrend carried price to the target. It won despite: the market was choppy (trend efficiency 0.19).
 
 **Tags:** clean_win, choppy, short, commodity
+
+## #15 OPEN SHORT AUD/USD - 2026-11-25 02:00 UTC
+**Sold short** 958.016 @ 0.66136 ($633.60 exposure, 10x leverage, margin $63.36, strategy v3)
+
+**Why:** AUD/USD: fast EMA crossed BELOW the slow EMA on this candle, price below the trend EMA (trend EMA slope -0.07%/10h). RSI 39, trend efficiency 0.12 (choppy), price 1.9 ATR below the slow EMA, 100% of forex in downtrends, hourly volatility 0.19%.
+
+**Plan:** stop 0.66385 (+2.0 ATR), target 0.65640 (-4.0 ATR), trailing 2.5 ATR. Risking about $2.38 (0.2% of equity).
+
+## #8 FOLLOW-UP Crude oil
+In the 12h after exit price moved up to 2.4 ATR further in the trade's direction and 1.1 ATR against it. No strong verdict on the exit.

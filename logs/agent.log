@@ -278,3 +278,6 @@
 [2026-11-25 02:07:17 UTC] Paper trading agent v2.2 started in /home/runner/work/paper-trading-agent/paper-trading-agent - strategy v3, 11 markets, longs on, shorts on, Yahoo client curl_cffi, equity $1,012.13. Paper money only.
 [2026-11-25 02:07:19 UTC] >> CLOSE #13 short Gold @ 3,538.17 (target) P&L +6.37 (+1.88R) - The thesis played out: the downtrend carried price to the target. It won despite: the market was choppy (trend efficiency 0.19).
 [2026-11-25 02:07:19 UTC] equity $1,016.36  free cash $63.42  v3  |  open: Bitcoin short, Ethereum short, EUR/USD long, NZD/USD long
+[2026-11-25 03:07:15 UTC] Paper trading agent v2.2 started in /home/runner/work/paper-trading-agent/paper-trading-agent - strategy v3, 11 markets, longs on, shorts on, Yahoo client curl_cffi, equity $1,016.36. Paper money only.
+[2026-11-25 03:07:15 UTC] >> SHORT #15 AUD/USD 958.016 @ 0.66136 - AUD/USD: fast EMA crossed BELOW the slow EMA on this candle, price below the trend EMA (trend EMA slope -0.07%/10h). RSI 39, trend efficiency 0.12 (choppy), price 1.9 ATR below the slow EMA, 100% of forex in downtrends, hourly volatility 0.19%.
+[2026-11-25 03:07:16 UTC] equity $1,014.93  free cash $0.06  v3  |  open: Bitcoin short, Ethereum short, EUR/USD long, NZD/USD long, AUD/USD short

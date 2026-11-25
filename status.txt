@@ -1,9 +1,10 @@
 
-Equity $1,016.36 (+1.64%)  free cash $63.42  strategy v3  agent 2.2  since 2026-11-19 15:01 UTC
-  OPEN #9 short Bitcoin   entry 59,971.98 now 59,174.10 stop 60,552.25 target 57,172.49 uP&L +4.03
-  OPEN #10 short Ethereum  entry 1,681.81 now 1,655.72 stop 1,698.82 target 1,590.06 uP&L +4.06
-  OPEN #12 long  EUR/USD   entry 1.0965 now 1.0961 stop 1.0947 target 1.1012 uP&L -0.82
-  OPEN #14 long  NZD/USD   entry 0.54833 now 0.54756 stop 0.54687 target 0.55163 uP&L -1.14
+Equity $1,014.93 (+1.49%)  free cash $0.06  strategy v3  agent 2.2  since 2026-11-19 15:01 UTC
+  OPEN #9 short Bitcoin   entry 59,971.98 now 59,149.44 stop 60,505.79 target 57,172.49 uP&L +4.16
+  OPEN #10 short Ethereum  entry 1,681.81 now 1,653.62 stop 1,695.35 target 1,590.06 uP&L +4.41
+  OPEN #12 long  EUR/USD   entry 1.0965 now 1.0958 stop 1.0947 target 1.1012 uP&L -1.67
+  OPEN #14 long  NZD/USD   entry 0.54833 now 0.54690 stop 0.54687 target 0.55163 uP&L -2.11
+  OPEN #15 short AUD/USD   entry 0.66136 now 0.66146 stop 0.66385 target 0.65640 uP&L -0.10
   Closed 10, win rate 40%, +0.29R avg, P&L +10.23
   Lessons: All short trades: 9 trades, win rate 44%, +0.43R avg, +18.17 USD. All forex trades: 4 trades, win rate 75%, +1.27R avg, +34.21 USD. All commodity trades: 4 trades, win rate 25%, -0.05R avg, -9.59 USD.
 
