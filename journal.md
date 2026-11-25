@@ -203,3 +203,12 @@ In the 12h after exit price moved up to 1.2 ATR further in the trade's direction
 
 ## #11 FOLLOW-UP Silver
 In the 12h after exit price moved up to 4.8 ATR further in the trade's direction and 0.0 ATR against it. After the stop, price went well past the entry in our direction: the stop was likely too tight. Tag: shaken_out
+
+## #13 CLOSE SHORT Gold - 2026-11-25 01:00 UTC
+**Result:** WIN +6.37 USD (+1.88R) after 11h, exit by target @ 3,538.17 (entry 3,620.58)
+
+**What happened:** best point +4.2 ATR in our favour, worst -0.1 ATR against, exited at +4.0 ATR.
+
+**Why it worked:** The thesis played out: the downtrend carried price to the target. It won despite: the market was choppy (trend efficiency 0.19).
+
+**Tags:** clean_win, choppy, short, commodity
