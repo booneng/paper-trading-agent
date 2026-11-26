@@ -379,3 +379,5 @@
 [2026-11-26 16:07:13 UTC] Paper trading agent v2.2 started in /home/runner/work/paper-trading-agent/paper-trading-agent - strategy v5, 11 markets, longs on, shorts on, Yahoo client curl_cffi, equity $998.56. Paper money only.
 [2026-11-26 16:07:15 UTC] >> CLOSE #18 long NZD/USD @ 0.54724 (trailing stop) P&L -5.54 (-0.74R) - It moved only +0.7 ATR our way before failing. Likely contributors: the market was choppy (trend efficiency 0.04); entry was late, 2.3 ATR beyond the slow EMA.
 [2026-11-26 16:07:15 UTC] equity $992.48  free cash $585.58  v5  |  open: GBP/USD long, AUD/USD long
+[2026-11-26 17:17:04 UTC] Paper trading agent v2.2 started in /home/runner/work/paper-trading-agent/paper-trading-agent - strategy v5, 11 markets, longs on, shorts on, Yahoo client curl_cffi, equity $992.48. Paper money only.
+[2026-11-26 17:17:06 UTC] equity $991.91  free cash $585.58  v5  |  open: GBP/USD long, AUD/USD long
