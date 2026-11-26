@@ -363,3 +363,5 @@
 [2026-11-26 09:07:24 UTC] Current strategy v4: train +1.61% (DD 11.5%, 217 trades) | unseen +7.92% (DD 6.6%, 132 trades)
 [2026-11-26 09:07:26 UTC] Adopted change rsi_max: 70 -> 65 (strategy v5)
 [2026-11-26 09:07:26 UTC] Daily report written: /home/runner/work/paper-trading-agent/paper-trading-agent/reports/2026-11-26.md
+[2026-11-26 10:07:13 UTC] Paper trading agent v2.2 started in /home/runner/work/paper-trading-agent/paper-trading-agent - strategy v5, 11 markets, longs on, shorts on, Yahoo client curl_cffi, equity $999.11. Paper money only.
+[2026-11-26 10:07:14 UTC] equity $996.24  free cash $407.44  v5  |  open: NZD/USD long, GBP/USD long, AUD/USD long
