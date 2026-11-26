@@ -344,3 +344,12 @@ In the 12h after exit price moved up to 0.0 ATR further in the trade's direction
 
 ## #17 FOLLOW-UP NZD/USD
 In the 12h after exit price moved up to 0.0 ATR further in the trade's direction and 2.7 ATR against it. Price moved further against the position after the exit: getting out was right. Tag: good_exit
+
+## #18 CLOSE LONG NZD/USD - 2026-11-26 15:00 UTC
+**Result:** LOSS -5.54 USD (-0.74R) after 21h, exit by trailing stop @ 0.54724 (entry 0.54890)
+
+**What happened:** best point +0.7 ATR in our favour, worst -1.9 ATR against, exited at -1.8 ATR.
+
+**Why it failed:** It moved only +0.7 ATR our way before failing. Likely contributors: the market was choppy (trend efficiency 0.04); entry was late, 2.3 ATR beyond the slow EMA.
+
+**Tags:** choppy, extended, long, forex

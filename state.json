@@ -2,41 +2,8 @@
   "created": "2026-11-19 15:01 UTC",
   "agent_version": "2.2",
   "starting_cash": 1000.0,
-  "cash": 407.43684800940434,
+  "cash": 585.5768900217093,
   "positions": {
-    "NZDUSD=X": {
-      "id": 18,
-      "symbol": "NZDUSD=X",
-      "side": "long",
-      "dir": 1,
-      "opened_t": 1795626000,
-      "entry": 0.5488969340443611,
-      "qty": 3346.3593554448244,
-      "notional": 1836.8063904143287,
-      "margin": 183.68063904143287,
-      "entry_fee": 0.0,
-      "stop": 0.5473506952649703,
-      "init_stop": 0.5466473284547164,
-      "tp": 0.5524963029877926,
-      "atr": 0.0008998422358578702,
-      "risk_usd": 7.5279887109684305,
-      "features": {
-        "rsi": 63.9,
-        "rsi_raw": 63.9,
-        "er": 0.041,
-        "ext_atr": 2.33,
-        "trend_slope": -0.046,
-        "vol_ratio": 1.0,
-        "atr_pct": 0.164,
-        "breadth": 0.75,
-        "cross_ago": 0
-      },
-      "thesis": "NZD/USD: fast EMA crossed ABOVE the slow EMA on this candle, price above the trend EMA (trend EMA slope -0.05%/10h). RSI 64, trend efficiency 0.04 (choppy), price 2.3 ATR above the slow EMA, 75% of forex in uptrends, hourly volatility 0.16%.",
-      "params_version": 4,
-      "mfe": 0.6823660211952205,
-      "mae": 1.3911132188909894,
-      "bars": 20
-    },
     "GBPUSD=X": {
       "id": 19,
       "symbol": "GBPUSD=X",
@@ -68,7 +35,7 @@
       "params_version": 4,
       "mfe": 0.19868663807571085,
       "mae": 1.8403481384951148,
-      "bars": 19
+      "bars": 20
     },
     "AUDUSD=X": {
       "id": 20,
@@ -101,32 +68,47 @@
       "params_version": 4,
       "mfe": 0.785129349923869,
       "mae": 1.1791176442446767,
-      "bars": 14
+      "bars": 15
     }
   },
-  "followups": [],
+  "followups": [
+    {
+      "id": 18,
+      "symbol": "NZDUSD=X",
+      "dir": 1,
+      "exit_t": 1795705200,
+      "exit_px": 0.5472412251259173,
+      "entry": 0.5488969340443611,
+      "atr": 0.0008998422358578702,
+      "code": "trailing_stop",
+      "win": false,
+      "bars": 0,
+      "hi": 0.5472412251259173,
+      "lo": 0.5472412251259173
+    }
+  ],
   "last_candle": {
-    "BTC-USD": 1795701600,
-    "ETH-USD": 1795701600,
-    "SOL-USD": 1795701600,
-    "EURUSD=X": 1795701600,
-    "GBPUSD=X": 1795701600,
-    "AUDUSD=X": 1795701600,
+    "BTC-USD": 1795705200,
+    "ETH-USD": 1795705200,
+    "SOL-USD": 1795705200,
+    "EURUSD=X": 1795705200,
+    "GBPUSD=X": 1795705200,
+    "AUDUSD=X": 1795705200,
     "GC=F": 1795665600,
-    "NZDUSD=X": 1795701600,
+    "NZDUSD=X": 1795705200,
     "SI=F": 1795665600,
     "CL=F": 1795665600,
     "HG=F": 1795665600
   },
   "last_prices": {
-    "BTC-USD": 60651.86,
-    "ETH-USD": 1695.79,
-    "SOL-USD": 70.95,
-    "EURUSD=X": 1.0982975959777832,
-    "GBPUSD=X": 1.311131477355957,
-    "AUDUSD=X": 0.6642311811447144,
+    "BTC-USD": 60549.3,
+    "ETH-USD": 1690.47,
+    "SOL-USD": 70.97,
+    "EURUSD=X": 1.0975743532180786,
+    "GBPUSD=X": 1.3109767436981201,
+    "AUDUSD=X": 0.663129985332489,
     "GC=F": 3620.39990234375,
-    "NZDUSD=X": 0.5481254458427429,
+    "NZDUSD=X": 0.5471956133842468,
     "SI=F": 42.084999084472656,
     "CL=F": 84.41999816894531,
     "HG=F": 5.492499828338623
@@ -559,6 +541,10 @@
     {
       "time": "2026-11-26 15:07 UTC",
       "equity": 998.56
+    },
+    {
+      "time": "2026-11-26 16:07 UTC",
+      "equity": 992.48
     }
   ],
   "skipped": {
@@ -569,17 +555,17 @@
   "last_learn": 1795684046.4310284,
   "next_id": 21,
   "next_check": {
-    "BTC-USD": 1795708830,
-    "ETH-USD": 1795708830,
-    "SOL-USD": 1795708830,
-    "EURUSD=X": 1795708830,
-    "GBPUSD=X": 1795708830,
-    "AUDUSD=X": 1795708830,
-    "NZDUSD=X": 1795708830,
-    "GC=F": 1795706237.274156,
-    "SI=F": 1795706237.3872306,
-    "CL=F": 1795706237.461578,
-    "HG=F": 1795706237.5526261
+    "BTC-USD": 1795712430,
+    "ETH-USD": 1795712430,
+    "SOL-USD": 1795712430,
+    "EURUSD=X": 1795712430,
+    "GBPUSD=X": 1795712430,
+    "AUDUSD=X": 1795712430,
+    "NZDUSD=X": 1795712430,
+    "GC=F": 1795709835.2500393,
+    "SI=F": 1795709835.3465433,
+    "CL=F": 1795709835.4436362,
+    "HG=F": 1795709835.6509125
   },
   "src_pref": {
     "BTC-USD": 0,
