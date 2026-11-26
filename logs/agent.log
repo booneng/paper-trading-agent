@@ -388,3 +388,5 @@
 [2026-11-26 19:17:33 UTC] equity $992.84  free cash $303.10  v5  |  open: GBP/USD long, AUD/USD long, NZD/USD short
 [2026-11-26 20:08:16 UTC] Paper trading agent v2.2 started in /home/runner/work/paper-trading-agent/paper-trading-agent - strategy v5, 11 markets, longs on, shorts on, Yahoo client curl_cffi, equity $992.84. Paper money only.
 [2026-11-26 20:08:18 UTC] equity $993.63  free cash $303.10  v5  |  open: GBP/USD long, AUD/USD long, NZD/USD short
+[2026-11-26 21:13:14 UTC] Paper trading agent v2.2 started in /home/runner/work/paper-trading-agent/paper-trading-agent - strategy v5, 11 markets, longs on, shorts on, Yahoo client curl_cffi, equity $993.63. Paper money only.
+[2026-11-26 21:13:15 UTC] equity $993.26  free cash $303.10  v5  |  open: GBP/USD long, AUD/USD long, NZD/USD short
