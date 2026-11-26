@@ -97,3 +97,10 @@ Data: last 90 days, 11 markets; tuned on the first 2/3, checked on the last 1/3 
 - By side and market over all 90 days: long 148 trades -48.63 USD; short 199 trades +138.82 USD; crypto 102 trades +16.79 USD; forex 147 trades +119.43 USD; commodity 98 trades -46.03 USD
 - **CHANGED stop-loss distance (ATR): 2.0 -> 2.5** (now v4). Train +0.79% -> +1.24%, unseen +11.23% -> +10.34%, unseen max DD 9.2% -> 6.6%. Evidence: live journal: 1 'stopped out, then price recovered' trades, win rate 0%, -1.02R avg; live journal: 4 'reversed right after entry' trades, win rate 0%, -1.02R avg.
 - Lessons from live trades so far: All short trades: 9 trades, win rate 44%, +0.43R avg, +18.17 USD. All forex trades: 6 trades, win rate 50%, +0.56R avg, +27.50 USD. All commodity trades: 4 trades, win rate 25%, -0.05R avg, -9.59 USD.
+
+## 2026-11-26 09:07 UTC - daily learning (strategy v4, agent 2.2)
+Data: last 90 days, 11 markets; tuned on the first 2/3, checked on the last 1/3 (unseen).
+- Current: train +1.61% (max DD 11.5%, 217 trades, win 34%) | unseen +7.92% (max DD 6.6%, 132 trades)
+- By side and market over all 90 days: long 147 trades -84.00 USD; short 202 trades +175.88 USD; crypto 103 trades -14.39 USD; forex 150 trades +133.48 USD; commodity 96 trades -27.20 USD
+- **CHANGED maximum directional RSI to enter: 70 -> 65** (now v5). Train +1.61% -> +2.37%, unseen +7.92% -> +8.53%, unseen max DD 6.6% -> 7.2%. Evidence: live journal: 1 'long entered with RSI > 65' trades, win rate 0%, -0.79R avg.
+- Lessons from live trades so far: Trades with lower trend efficiency (split at 0.148) did better: +0.29R vs -0.08R per trade. Trades with higher distance beyond the slow EMA (split at 1.66) did better: +0.38R vs -0.22R per trade. All short trades: 14 trades, win rate 50%, +0.32R avg, +18.37 USD. All crypto trades: 4 trades, win rate 50%, -0.43R avg, -11.61 USD. All forex trades: 9 trades, win rate 44%, +0.40R avg, +24.93 USD. All commodity trades: 4 trades, win rate 25%, -0.05R avg, -9.59 USD.
