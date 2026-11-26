@@ -335,3 +335,12 @@ In the 12h after exit price moved up to 0.0 ATR further in the trade's direction
 
 ## #16 FOLLOW-UP EUR/USD
 In the 12h after exit price moved up to 2.0 ATR further in the trade's direction and 4.8 ATR against it. Price moved further against the position after the exit: getting out was right. Tag: good_exit
+
+## #9 FOLLOW-UP Bitcoin
+In the 12h after exit price moved up to 0.0 ATR further in the trade's direction and 3.0 ATR against it. Price moved further against the position after the exit: getting out was right. Tag: good_exit
+
+## #10 FOLLOW-UP Ethereum
+In the 12h after exit price moved up to 0.0 ATR further in the trade's direction and 2.3 ATR against it. Price moved further against the position after the exit: getting out was right. Tag: good_exit
+
+## #17 FOLLOW-UP NZD/USD
+In the 12h after exit price moved up to 0.0 ATR further in the trade's direction and 2.7 ATR against it. Price moved further against the position after the exit: getting out was right. Tag: good_exit
