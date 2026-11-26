@@ -353,3 +353,10 @@ In the 12h after exit price moved up to 0.0 ATR further in the trade's direction
 **Why it failed:** It moved only +0.7 ATR our way before failing. Likely contributors: the market was choppy (trend efficiency 0.04); entry was late, 2.3 ATR beyond the slow EMA.
 
 **Tags:** choppy, extended, long, forex
+
+## #21 OPEN SHORT NZD/USD - 2026-11-26 17:00 UTC
+**Sold short** 5160.98 @ 0.54733 ($2,824.73 exposure, 10x leverage, margin $282.47, strategy v5)
+
+**Why:** NZD/USD: fast EMA crossed BELOW the slow EMA on this candle, price below the trend EMA (trend EMA slope +0.00%/10h). RSI 45, trend efficiency 0.23 (moderate trend), price 0.8 ATR below the slow EMA, 50% of forex in downtrends, hourly volatility 0.10%.
+
+**Plan:** stop 0.54877 (+2.5 ATR), target 0.54502 (-4.0 ATR), trailing 2.5 ATR. Risking about $7.45 (0.7% of equity).
