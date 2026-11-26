@@ -34,8 +34,8 @@
       "thesis": "NZD/USD: fast EMA crossed ABOVE the slow EMA on this candle, price above the trend EMA (trend EMA slope -0.05%/10h). RSI 64, trend efficiency 0.04 (choppy), price 2.3 ATR above the slow EMA, 75% of forex in uptrends, hourly volatility 0.16%.",
       "params_version": 4,
       "mfe": 0.6823660211952205,
-      "mae": 0.48993170078177023,
-      "bars": 6
+      "mae": 0.5233161539333355,
+      "bars": 7
     },
     "GBPUSD=X": {
       "id": 19,
@@ -67,8 +67,8 @@
       "thesis": "GBP/USD: fast EMA crossed ABOVE the slow EMA on this candle, price above the trend EMA (trend EMA slope -0.03%/10h). RSI 65, trend efficiency 0.07 (choppy), price 2.4 ATR above the slow EMA, 100% of forex in uptrends, hourly volatility 0.12%.",
       "params_version": 4,
       "mfe": 0.19868663807571085,
-      "mae": 0.9586900196948365,
-      "bars": 5
+      "mae": 1.1898156025737194,
+      "bars": 6
     },
     "AUDUSD=X": {
       "id": 20,
@@ -99,26 +99,12 @@
       },
       "thesis": "AUD/USD: fast EMA crossed ABOVE the slow EMA 1h ago, price above the trend EMA (trend EMA slope -0.08%/10h). RSI 64, trend efficiency 0.16 (choppy), price 2.4 ATR above the slow EMA, 100% of forex in uptrends, hourly volatility 0.18%.",
       "params_version": 4,
-      "mfe": 0.0,
-      "mae": 0.0,
-      "bars": 0
+      "mfe": 0.1414815440854125,
+      "mae": 1.1791176442446767,
+      "bars": 1
     }
   },
   "followups": [
-    {
-      "id": 16,
-      "symbol": "EURUSD=X",
-      "dir": -1,
-      "exit_t": 1795608000,
-      "exit_px": 1.0954400295197988,
-      "entry": 1.0936234605789186,
-      "atr": 0.0008535179456166593,
-      "code": "stop_loss",
-      "win": false,
-      "bars": 11,
-      "hi": 1.0995051860809326,
-      "lo": 1.0937328338623047
-    },
     {
       "id": 17,
       "symbol": "NZDUSD=X",
@@ -129,7 +115,7 @@
       "atr": 0.0007770440645304884,
       "code": "trailing_stop",
       "win": false,
-      "bars": 7,
+      "bars": 8,
       "hi": 0.5495109558105469,
       "lo": 0.547407723618363
     },
@@ -143,7 +129,7 @@
       "atr": 699.8721645479769,
       "code": "trailing_stop",
       "win": true,
-      "bars": 7,
+      "bars": 8,
       "hi": 61526.89,
       "lo": 59408.53
     },
@@ -157,36 +143,36 @@
       "atr": 22.93831766650825,
       "code": "trailing_stop",
       "win": true,
-      "bars": 7,
+      "bars": 8,
       "hi": 1727.7,
       "lo": 1673.46
     }
   ],
   "last_candle": {
-    "BTC-USD": 1795651200,
-    "ETH-USD": 1795651200,
-    "SOL-USD": 1795651200,
-    "EURUSD=X": 1795651200,
-    "GBPUSD=X": 1795651200,
-    "AUDUSD=X": 1795651200,
-    "GC=F": 1795651200,
-    "NZDUSD=X": 1795651200,
-    "SI=F": 1795651200,
-    "CL=F": 1795651200,
-    "HG=F": 1795651200
+    "BTC-USD": 1795654800,
+    "ETH-USD": 1795654800,
+    "SOL-USD": 1795654800,
+    "EURUSD=X": 1795654800,
+    "GBPUSD=X": 1795654800,
+    "AUDUSD=X": 1795654800,
+    "GC=F": 1795654800,
+    "NZDUSD=X": 1795654800,
+    "SI=F": 1795654800,
+    "CL=F": 1795654800,
+    "HG=F": 1795654800
   },
   "last_prices": {
-    "BTC-USD": 60433.78,
-    "ETH-USD": 1695.11,
-    "SOL-USD": 70.73,
-    "EURUSD=X": 1.0976948738098145,
-    "GBPUSD=X": 1.3119055032730103,
-    "AUDUSD=X": 0.6640546917915344,
-    "GC=F": 3586.5,
-    "NZDUSD=X": 0.549269437789917,
-    "SI=F": 41.41999816894531,
-    "CL=F": 84.01000213623047,
-    "HG=F": 5.480000019073486
+    "BTC-USD": 60783.96,
+    "ETH-USD": 1700.52,
+    "SOL-USD": 71.04,
+    "EURUSD=X": 1.0969723463058472,
+    "GBPUSD=X": 1.3109596967697144,
+    "AUDUSD=X": 0.6633498668670654,
+    "GC=F": 3593.10009765625,
+    "NZDUSD=X": 0.5486065149307251,
+    "SI=F": 41.43000030517578,
+    "CL=F": 83.94999694824219,
+    "HG=F": 5.4664998054504395
   },
   "equity_history": [
     {
@@ -560,6 +546,10 @@
     {
       "time": "2026-11-26 01:07 UTC",
       "equity": 1003.35
+    },
+    {
+      "time": "2026-11-26 02:07 UTC",
+      "equity": 997.58
     }
   ],
   "skipped": {
@@ -570,17 +560,17 @@
   "last_learn": 1795594885.3053706,
   "next_id": 21,
   "next_check": {
-    "BTC-USD": 1795658430,
-    "ETH-USD": 1795658430,
-    "SOL-USD": 1795658430,
-    "EURUSD=X": 1795658430,
-    "GBPUSD=X": 1795658430,
-    "AUDUSD=X": 1795658430,
-    "NZDUSD=X": 1795658430,
-    "GC=F": 1795658430,
-    "SI=F": 1795658430,
-    "CL=F": 1795658430,
-    "HG=F": 1795658430
+    "BTC-USD": 1795662030,
+    "ETH-USD": 1795662030,
+    "SOL-USD": 1795662030,
+    "EURUSD=X": 1795662030,
+    "GBPUSD=X": 1795662030,
+    "AUDUSD=X": 1795662030,
+    "NZDUSD=X": 1795662030,
+    "GC=F": 1795662030,
+    "SI=F": 1795662030,
+    "CL=F": 1795662030,
+    "HG=F": 1795662030
   },
   "src_pref": {
     "BTC-USD": 0,

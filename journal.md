@@ -332,3 +332,6 @@ In the 12h after exit price moved up to 0.0 ATR further in the trade's direction
 **Why:** AUD/USD: fast EMA crossed ABOVE the slow EMA 1h ago, price above the trend EMA (trend EMA slope -0.08%/10h). RSI 64, trend efficiency 0.16 (choppy), price 2.4 ATR above the slow EMA, 100% of forex in uptrends, hourly volatility 0.18%.
 
 **Plan:** stop 0.66124 (-2.5 ATR), target 0.66882 (+4.0 ATR), trailing 2.5 ATR. Risking about $7.52 (0.7% of equity).
+
+## #16 FOLLOW-UP EUR/USD
+In the 12h after exit price moved up to 2.0 ATR further in the trade's direction and 4.8 ATR against it. Price moved further against the position after the exit: getting out was right. Tag: good_exit
