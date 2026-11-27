@@ -421,3 +421,4 @@
 [2026-11-27 14:07:17 UTC] >> CLOSE #20 long AUD/USD @ 0.66574 (trailing stop) P&L +4.08 (+0.54R) - The trend ran +3.6 ATR our way and the trailing stop locked in part of it, but 2.2 ATR of open profit was given back. It won despite: the market was choppy (trend efficiency 0.16); entry was late, 2.4 ATR beyond the slow EMA.
 [2026-11-27 14:07:18 UTC] >> CLOSE #22 long NZD/USD @ 0.54713 (trailing stop) P&L -7.05 (-0.94R) - It moved only +0.8 ATR our way before failing. Likely contributors: the market was choppy (trend efficiency 0.05).
 [2026-11-27 14:07:18 UTC] equity $994.71  free cash $420.94  v6  |  open: GBP/USD long, EUR/USD short
+[2026-11-27 14:57:33 UTC] Paper trading agent v2.2 started in /home/runner/work/paper-trading-agent/paper-trading-agent - strategy v6, 11 markets, longs on, shorts on, Yahoo client curl_cffi, equity $994.71. Paper money only.
