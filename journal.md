@@ -369,3 +369,13 @@ In the 12h after exit price moved up to 0.0 ATR further in the trade's direction
 **Why it failed:** It was +1.7 ATR in profit but the gain was lost - the exits were too loose to protect it. Entry conditions looked healthy, so this is likely normal noise - a loss the strategy expects to take.
 
 **Tags:** gave_back, short, forex
+
+## #18 FOLLOW-UP NZD/USD
+In the 12h after exit price moved up to 3.7 ATR further in the trade's direction and 1.0 ATR against it. No strong verdict on the exit.
+
+## #22 OPEN LONG NZD/USD - 2026-11-27 03:00 UTC
+**Bought** 3917.64 @ 0.54893 ($2,150.50 exposure, 10x leverage, margin $215.05, strategy v5)
+
+**Why:** NZD/USD: fast EMA crossed ABOVE the slow EMA 1h ago, price above the trend EMA (trend EMA slope +0.00%/10h). RSI 56, trend efficiency 0.05 (choppy), price 1.1 ATR above the slow EMA, 100% of forex in uptrends, hourly volatility 0.14%.
+
+**Plan:** stop 0.54702 (-2.5 ATR), target 0.55198 (+4.0 ATR), trailing 2.5 ATR. Risking about $7.49 (0.7% of equity).
