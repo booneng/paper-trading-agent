@@ -386,3 +386,24 @@ In the 12h after exit price moved up to 3.7 ATR further in the trade's direction
 **Why:** EUR/USD: fast EMA crossed BELOW the slow EMA on this candle, price below the trend EMA (trend EMA slope +0.01%/10h). RSI 45, trend efficiency 0.21 (moderate trend), price 0.7 ATR below the slow EMA, 100% of forex in downtrends, hourly volatility 0.08%.
 
 **Plan:** stop 1.0988 (+2.5 ATR), target 1.0932 (-4.0 ATR), trailing 2.5 ATR. Risking about $6.50 (0.7% of equity).
+
+## #20 CLOSE LONG AUD/USD - 2026-11-27 13:00 UTC
+**Result:** WIN +4.08 USD (+0.54R) after 37h, exit by trailing stop @ 0.66574 (entry 0.66415)
+
+**What happened:** best point +3.6 ATR in our favour, worst -1.2 ATR against, exited at +1.4 ATR.
+
+**Why it worked:** The trend ran +3.6 ATR our way and the trailing stop locked in part of it, but 2.2 ATR of open profit was given back. It won despite: the market was choppy (trend efficiency 0.16); entry was late, 2.4 ATR beyond the slow EMA.
+
+**Tags:** gave_back, choppy, extended, long, forex
+
+## #21 FOLLOW-UP NZD/USD
+In the 12h after exit price moved up to 1.4 ATR further in the trade's direction and 4.5 ATR against it. Price moved further against the position after the exit: getting out was right. Tag: good_exit
+
+## #22 CLOSE LONG NZD/USD - 2026-11-27 13:00 UTC
+**Result:** LOSS -7.05 USD (-0.94R) after 10h, exit by trailing stop @ 0.54713 (entry 0.54893)
+
+**What happened:** best point +0.8 ATR in our favour, worst -2.3 ATR against, exited at -2.4 ATR.
+
+**Why it failed:** It moved only +0.8 ATR our way before failing. Likely contributors: the market was choppy (trend efficiency 0.05).
+
+**Tags:** choppy, long, forex
