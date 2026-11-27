@@ -379,3 +379,10 @@ In the 12h after exit price moved up to 3.7 ATR further in the trade's direction
 **Why:** NZD/USD: fast EMA crossed ABOVE the slow EMA 1h ago, price above the trend EMA (trend EMA slope +0.00%/10h). RSI 56, trend efficiency 0.05 (choppy), price 1.1 ATR above the slow EMA, 100% of forex in uptrends, hourly volatility 0.14%.
 
 **Plan:** stop 0.54702 (-2.5 ATR), target 0.55198 (+4.0 ATR), trailing 2.5 ATR. Risking about $7.49 (0.7% of equity).
+
+## #23 OPEN SHORT EUR/USD - 2026-11-27 10:00 UTC
+**Sold short** 3002.42 @ 1.0966 ($3,292.52 exposure, 10x leverage, margin $329.25, strategy v5)
+
+**Why:** EUR/USD: fast EMA crossed BELOW the slow EMA on this candle, price below the trend EMA (trend EMA slope +0.01%/10h). RSI 45, trend efficiency 0.21 (moderate trend), price 0.7 ATR below the slow EMA, 100% of forex in downtrends, hourly volatility 0.08%.
+
+**Plan:** stop 1.0988 (+2.5 ATR), target 1.0932 (-4.0 ATR), trailing 2.5 ATR. Risking about $6.50 (0.7% of equity).

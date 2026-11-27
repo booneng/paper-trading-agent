@@ -104,3 +104,10 @@ Data: last 90 days, 11 markets; tuned on the first 2/3, checked on the last 1/3 
 - By side and market over all 90 days: long 147 trades -84.00 USD; short 202 trades +175.88 USD; crypto 103 trades -14.39 USD; forex 150 trades +133.48 USD; commodity 96 trades -27.20 USD
 - **CHANGED maximum directional RSI to enter: 70 -> 65** (now v5). Train +1.61% -> +2.37%, unseen +7.92% -> +8.53%, unseen max DD 6.6% -> 7.2%. Evidence: live journal: 1 'long entered with RSI > 65' trades, win rate 0%, -0.79R avg.
 - Lessons from live trades so far: Trades with lower trend efficiency (split at 0.148) did better: +0.29R vs -0.08R per trade. Trades with higher distance beyond the slow EMA (split at 1.66) did better: +0.38R vs -0.22R per trade. All short trades: 14 trades, win rate 50%, +0.32R avg, +18.37 USD. All crypto trades: 4 trades, win rate 50%, -0.43R avg, -11.61 USD. All forex trades: 9 trades, win rate 44%, +0.40R avg, +24.93 USD. All commodity trades: 4 trades, win rate 25%, -0.05R avg, -9.59 USD.
+
+## 2026-11-27 11:13 UTC - daily learning (strategy v5, agent 2.2)
+Data: last 90 days, 11 markets; tuned on the first 2/3, checked on the last 1/3 (unseen).
+- Current: train -1.91% (max DD 11.8%, 194 trades, win 34%) | unseen +10.84% (max DD 4.6%, 115 trades)
+- By side and market over all 90 days: long 129 trades -77.75 USD; short 180 trades +174.14 USD; crypto 92 trades -2.79 USD; forex 135 trades +136.74 USD; commodity 82 trades -37.57 USD
+- **CHANGED minimum directional RSI to enter: 45 -> 50** (now v6). Train -1.91% -> -1.68%, unseen +10.84% -> +11.67%, unseen max DD 4.6% -> 4.6%.
+- Lessons from live trades so far: Trades with higher distance beyond the slow EMA (split at 1.66) did better: +0.27R vs -0.24R per trade. All long trades: 4 trades, win rate 0%, -0.88R avg, -20.18 USD. All short trades: 15 trades, win rate 47%, +0.26R avg, +14.85 USD. All crypto trades: 4 trades, win rate 50%, -0.43R avg, -11.61 USD. All forex trades: 11 trades, win rate 36%, +0.21R avg, +15.87 USD. All commodity trades: 4 trades, win rate 25%, -0.05R avg, -9.59 USD.

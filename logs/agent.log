@@ -408,3 +408,10 @@
 [2026-11-27 04:07:18 UTC] >> LONG  #22 NZD/USD 3917.64 @ 0.54893 - NZD/USD: fast EMA crossed ABOVE the slow EMA 1h ago, price above the trend EMA (trend EMA slope +0.00%/10h). RSI 56, trend efficiency 0.05 (choppy), price 1.1 ATR above the slow EMA, 100% of forex in uptrends, hourly volatility 0.14%.
 [2026-11-27 04:07:18 UTC] equity $997.73  free cash $367.01  v5  |  open: GBP/USD long, AUD/USD long, NZD/USD long
 [2026-11-27 04:57:32 UTC] Paper trading agent v2.2 started in /home/runner/work/paper-trading-agent/paper-trading-agent - strategy v5, 11 markets, longs on, shorts on, Yahoo client curl_cffi, equity $997.73. Paper money only.
+[2026-11-27 11:13:27 UTC] Paper trading agent v2.2 started in /home/runner/work/paper-trading-agent/paper-trading-agent - strategy v5, 11 markets, longs on, shorts on, Yahoo client curl_cffi, equity $997.73. Paper money only.
+[2026-11-27 11:13:28 UTC] >> SHORT #23 EUR/USD 3002.42 @ 1.0966 - EUR/USD: fast EMA crossed BELOW the slow EMA on this candle, price below the trend EMA (trend EMA slope +0.01%/10h). RSI 45, trend efficiency 0.21 (moderate trend), price 0.7 ATR below the slow EMA, 100% of forex in downtrends, hourly volatility 0.08%.
+[2026-11-27 11:13:29 UTC] equity $1,003.73  free cash $37.76  v5  |  open: GBP/USD long, AUD/USD long, NZD/USD long, EUR/USD short
+[2026-11-27 11:13:29 UTC] Learning: loading 90 days of hourly prices for 11 markets...
+[2026-11-27 11:13:40 UTC] Current strategy v5: train -1.91% (DD 11.8%, 194 trades) | unseen +10.84% (DD 4.6%, 115 trades)
+[2026-11-27 11:13:42 UTC] Adopted change rsi_min: 45 -> 50 (strategy v6)
+[2026-11-27 11:13:42 UTC] Daily report written: /home/runner/work/paper-trading-agent/paper-trading-agent/reports/2026-11-27.md
