@@ -423,3 +423,17 @@ In the 12h after exit price moved up to 1.4 ATR further in the trade's direction
 **Why it failed:** It moved only +0.5 ATR our way before failing. Likely contributors: the market was choppy (trend efficiency 0.07); entry was late, 2.4 ATR beyond the slow EMA.
 
 **Tags:** choppy, extended, long, forex
+
+## #25 OPEN SHORT Bitcoin - 2026-11-27 16:00 UTC
+**Sold short** 0.00477974 @ 59,846.42 ($286.05 exposure, strategy v6)
+
+**Why:** Bitcoin: fast EMA crossed BELOW the slow EMA on this candle, price below the trend EMA (trend EMA slope +0.15%/10h). RSI 39, trend efficiency 0.15 (choppy), price 1.5 ATR below the slow EMA, volume 2.2x average, 100% of crypto in downtrends, hourly volatility 1.04%.
+
+**Plan:** stop 61,405.78 (+2.5 ATR), target 57,351.45 (-4.0 ATR), trailing 2.5 ATR. Risking about $8.03 (0.8% of equity).
+
+## #26 OPEN SHORT NZD/USD - 2026-11-27 16:00 UTC
+**Sold short** 2151.54 @ 0.54649 ($1,175.79 exposure, 10x leverage, margin $117.58, strategy v6)
+
+**Why:** NZD/USD: fast EMA crossed BELOW the slow EMA 1h ago, price below the trend EMA (trend EMA slope +0.00%/10h). RSI 37, trend efficiency 0.07 (choppy), price 1.8 ATR below the slow EMA, 75% of forex in downtrends, hourly volatility 0.14%.
+
+**Plan:** stop 0.54845 (+2.5 ATR), target 0.54335 (-4.0 ATR), trailing 2.5 ATR. Risking about $4.22 (0.4% of equity).
