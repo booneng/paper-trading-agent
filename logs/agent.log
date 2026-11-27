@@ -432,3 +432,5 @@
 [2026-11-27 17:07:17 UTC] >> SHORT #25 Bitcoin 0.00477974 @ 59,846.42 - Bitcoin: fast EMA crossed BELOW the slow EMA on this candle, price below the trend EMA (trend EMA slope +0.15%/10h). RSI 39, trend efficiency 0.15 (choppy), price 1.5 ATR below the slow EMA, volume 2.2x average, 100% of crypto in downtrends, hourly volatility 1.04%.
 [2026-11-27 17:07:17 UTC] >> SHORT #26 NZD/USD 2151.54 @ 0.54649 - NZD/USD: fast EMA crossed BELOW the slow EMA 1h ago, price below the trend EMA (trend EMA slope +0.00%/10h). RSI 37, trend efficiency 0.07 (choppy), price 1.8 ATR below the slow EMA, 75% of forex in downtrends, hourly volatility 0.14%.
 [2026-11-27 17:07:18 UTC] equity $994.26  free cash $0.12  v6  |  open: EUR/USD short, Ethereum short, Bitcoin short, NZD/USD short
+[2026-11-27 18:07:13 UTC] Paper trading agent v2.2 started in /home/runner/work/paper-trading-agent/paper-trading-agent - strategy v6, 11 markets, longs on, shorts on, Yahoo client curl_cffi, equity $994.26. Paper money only.
+[2026-11-27 18:07:14 UTC] equity $994.61  free cash $0.12  v6  |  open: EUR/USD short, Ethereum short, Bitcoin short, NZD/USD short
