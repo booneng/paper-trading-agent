@@ -407,3 +407,19 @@ In the 12h after exit price moved up to 1.4 ATR further in the trade's direction
 **Why it failed:** It moved only +0.8 ATR our way before failing. Likely contributors: the market was choppy (trend efficiency 0.05).
 
 **Tags:** choppy, long, forex
+
+## #24 OPEN SHORT Ethereum - 2026-11-27 15:00 UTC
+**Sold short** 0.151961 @ 1,669.77 ($253.74 exposure, strategy v6)
+
+**Why:** Ethereum: fast EMA crossed BELOW the slow EMA on this candle, price below the trend EMA (trend EMA slope +0.19%/10h). RSI 36, trend efficiency 0.18 (choppy), price 1.8 ATR below the slow EMA, volume 4.3x average, 100% of crypto in downtrends, hourly volatility 1.17%.
+
+**Plan:** stop 1,718.82 (+2.5 ATR), target 1,591.31 (-4.0 ATR), trailing 2.5 ATR. Risking about $7.96 (0.8% of equity).
+
+## #19 CLOSE LONG GBP/USD - 2026-11-27 15:00 UTC
+**Result:** LOSS -4.42 USD (-0.59R) after 44h, exit by trailing stop @ 1.3102 (entry 1.3126)
+
+**What happened:** best point +0.5 ATR in our favour, worst -2.0 ATR against, exited at -1.5 ATR.
+
+**Why it failed:** It moved only +0.5 ATR our way before failing. Likely contributors: the market was choppy (trend efficiency 0.07); entry was late, 2.4 ATR beyond the slow EMA.
+
+**Tags:** choppy, extended, long, forex

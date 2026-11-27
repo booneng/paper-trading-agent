@@ -424,3 +424,7 @@
 [2026-11-27 14:57:33 UTC] Paper trading agent v2.2 started in /home/runner/work/paper-trading-agent/paper-trading-agent - strategy v6, 11 markets, longs on, shorts on, Yahoo client curl_cffi, equity $994.71. Paper money only.
 [2026-11-27 15:07:21 UTC] Paper trading agent v2.2 started in /home/runner/work/paper-trading-agent/paper-trading-agent - strategy v6, 11 markets, longs on, shorts on, Yahoo client curl_cffi, equity $994.71. Paper money only.
 [2026-11-27 15:07:22 UTC] equity $993.65  free cash $420.94  v6  |  open: GBP/USD long, EUR/USD short
+[2026-11-27 16:07:15 UTC] Paper trading agent v2.2 started in /home/runner/work/paper-trading-agent/paper-trading-agent - strategy v6, 11 markets, longs on, shorts on, Yahoo client curl_cffi, equity $993.65. Paper money only.
+[2026-11-27 16:07:15 UTC] >> SHORT #24 Ethereum 0.151961 @ 1,669.77 - Ethereum: fast EMA crossed BELOW the slow EMA on this candle, price below the trend EMA (trend EMA slope +0.19%/10h). RSI 36, trend efficiency 0.18 (choppy), price 1.8 ATR below the slow EMA, volume 4.3x average, 100% of crypto in downtrends, hourly volatility 1.17%.
+[2026-11-27 16:07:16 UTC] >> CLOSE #19 long GBP/USD @ 1.3102 (trailing stop) P&L -4.42 (-0.59R) - It moved only +0.5 ATR our way before failing. Likely contributors: the market was choppy (trend efficiency 0.07); entry was late, 2.4 ATR beyond the slow EMA.
+[2026-11-27 16:07:16 UTC] equity $993.78  free cash $404.03  v6  |  open: EUR/USD short, Ethereum short
