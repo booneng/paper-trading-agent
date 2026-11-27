@@ -360,3 +360,12 @@ In the 12h after exit price moved up to 0.0 ATR further in the trade's direction
 **Why:** NZD/USD: fast EMA crossed BELOW the slow EMA on this candle, price below the trend EMA (trend EMA slope +0.00%/10h). RSI 45, trend efficiency 0.23 (moderate trend), price 0.8 ATR below the slow EMA, 50% of forex in downtrends, hourly volatility 0.10%.
 
 **Plan:** stop 0.54877 (+2.5 ATR), target 0.54502 (-4.0 ATR), trailing 2.5 ATR. Risking about $7.45 (0.7% of equity).
+
+## #21 CLOSE SHORT NZD/USD - 2026-11-27 01:00 UTC
+**Result:** LOSS -3.52 USD (-0.47R) after 8h, exit by trailing stop @ 0.54801 (entry 0.54733)
+
+**What happened:** best point +1.7 ATR in our favour, worst -4.3 ATR against, exited at -1.2 ATR.
+
+**Why it failed:** It was +1.7 ATR in profit but the gain was lost - the exits were too loose to protect it. Entry conditions looked healthy, so this is likely normal noise - a loss the strategy expects to take.
+
+**Tags:** gave_back, short, forex
