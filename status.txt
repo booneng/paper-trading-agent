@@ -1,7 +1,7 @@
 
-Equity $995.93 (-0.41%)  free cash $582.06  strategy v5  agent 2.2  since 2026-11-19 15:01 UTC
-  OPEN #19 long  GBP/USD   entry 1.3126 now 1.3115 stop 1.3090 target 1.3192 uP&L -2.13
-  OPEN #20 long  AUD/USD   entry 0.66415 now 0.66547 stop 0.66371 target 0.66882 uP&L +3.39
+Equity $1,001.05 (+0.11%)  free cash $582.06  strategy v5  agent 2.2  since 2026-11-19 15:01 UTC
+  OPEN #19 long  GBP/USD   entry 1.3126 now 1.3125 stop 1.3099 target 1.3192 uP&L -0.32
+  OPEN #20 long  AUD/USD   entry 0.66415 now 0.66676 stop 0.66488 target 0.66882 uP&L +6.70
   Closed 19, win rate 37%, +0.02R avg, P&L -5.33
   Lessons: Trades with higher distance beyond the slow EMA (split at 1.66) did better: +0.27R vs -0.24R per trade. All long trades: 4 trades, win rate 0%, -0.88R avg, -20.18 USD. All short trades: 15 trades, win rate 47%, +0.26R avg, +14.85 USD. All crypto trades: 4 trades, win rate 50%, -0.43R avg, -11.61 USD. All forex trades: 11 trades, win rate 36%, +0.21R avg, +15.87 USD. All commodity trades: 4 trades, win rate 25%, -0.05R avg, -9.59 USD.
 
