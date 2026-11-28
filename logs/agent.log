@@ -474,3 +474,5 @@
 [2026-11-28 11:16:56 UTC] Current strategy v6: train -5.73% (DD 11.6%, 196 trades) | unseen +13.21% (DD 4.2%, 107 trades)
 [2026-11-28 11:16:58 UTC] No change adopted.
 [2026-11-28 11:16:58 UTC] Daily report written: /home/runner/work/paper-trading-agent/paper-trading-agent/reports/2026-11-28.md
+[2026-11-28 12:18:03 UTC] Paper trading agent v2.2 started in /home/runner/work/paper-trading-agent/paper-trading-agent - strategy v6, 11 markets, longs on, shorts on, Yahoo client curl_cffi, equity $1,002.17. Paper money only.
+[2026-11-28 12:18:04 UTC] equity $1,002.01  free cash $0.12  v6  |  open: EUR/USD short, Ethereum short, Bitcoin short, NZD/USD short
