@@ -1,8 +1,8 @@
 
-Equity $999.60 (-0.04%)  free cash $0.12  strategy v6  agent 2.2  since 2026-11-19 15:01 UTC
+Equity $1,002.17 (+0.22%)  free cash $0.12  strategy v6  agent 2.2  since 2026-11-19 15:01 UTC
   OPEN #23 short EUR/USD   entry 1.0966 now 1.0939 stop 1.0957 target 1.0932 uP&L +8.32
-  OPEN #24 short Ethereum  entry 1,669.77 now 1,651.78 stop 1,683.40 target 1,591.31 uP&L +2.48
-  OPEN #25 short Bitcoin   entry 59,846.42 now 59,526.24 stop 60,494.18 target 57,351.45 uP&L +1.24
+  OPEN #24 short Ethereum  entry 1,669.77 now 1,645.31 stop 1,676.27 target 1,591.31 uP&L +3.46
+  OPEN #25 short Bitcoin   entry 59,846.42 now 59,193.51 stop 60,187.03 target 57,351.45 uP&L +2.83
   OPEN #26 short NZD/USD   entry 0.54649 now 0.54636 stop 0.54780 target 0.54335 uP&L +0.28
   Closed 22, win rate 36%, -0.02R avg, P&L -12.72
   Lessons: Trades with lower RSI in the trade's direction (split at 61.6) did better: +0.17R vs -0.21R per trade. Trades with higher distance beyond the slow EMA (split at 1.69) did better: +0.33R vs -0.38R per trade. Trades with higher trend slope (split at 0.029) did better: +0.30R vs -0.35R per trade. All long trades: 7 trades, win rate 14%, -0.64R avg, -27.57 USD. All short trades: 15 trades, win rate 47%, +0.26R avg, +14.85 USD. All crypto trades: 4 trades, win rate 50%, -0.43R avg, -11.61 USD. All forex trades: 14 trades, win rate 36%, +0.10R avg, +8.48 USD. All commodity trades: 4 trades, win rate 25%, -0.05R avg, -9.59 USD. 'entered late / overextended' trades lose: 5 trades, win rate 20%, -0.51R each, -12.59 USD total.
