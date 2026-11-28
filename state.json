@@ -68,7 +68,7 @@
       "params_version": 6,
       "mfe": 0.9035629876164852,
       "mae": 0.8454795829395308,
-      "bars": 9
+      "bars": 10
     },
     "BTC-USD": {
       "id": 25,
@@ -100,8 +100,8 @@
       "thesis": "Bitcoin: fast EMA crossed BELOW the slow EMA on this candle, price below the trend EMA (trend EMA slope +0.15%/10h). RSI 39, trend efficiency 0.15 (choppy), price 1.5 ATR below the slow EMA, volume 2.2x average, 100% of crypto in downtrends, hourly volatility 1.04%.",
       "params_version": 6,
       "mfe": 0.6648758772598293,
-      "mae": 0.22983525207906702,
-      "bars": 8
+      "mae": 0.524475729707145,
+      "bars": 9
     },
     "NZDUSD=X": {
       "id": 26,
@@ -182,9 +182,9 @@
     }
   ],
   "last_candle": {
-    "BTC-USD": 1795824000,
-    "ETH-USD": 1795824000,
-    "SOL-USD": 1795824000,
+    "BTC-USD": 1795827600,
+    "ETH-USD": 1795827600,
+    "SOL-USD": 1795827600,
     "EURUSD=X": 1795816800,
     "GBPUSD=X": 1795816800,
     "AUDUSD=X": 1795820400,
@@ -195,9 +195,9 @@
     "HG=F": 1795802400
   },
   "last_prices": {
-    "BTC-USD": 59833.81,
-    "ETH-USD": 1659.87,
-    "SOL-USD": 71.65,
+    "BTC-USD": 60119.76,
+    "ETH-USD": 1668.05,
+    "SOL-USD": 72.09,
     "EURUSD=X": 1.0938525199890137,
     "GBPUSD=X": 1.3098949193954468,
     "AUDUSD=X": 0.6650704741477966,
@@ -743,6 +743,10 @@
     {
       "time": "2026-11-28 01:07 UTC",
       "equity": 996.9
+    },
+    {
+      "time": "2026-11-28 02:07 UTC",
+      "equity": 994.29
     }
   ],
   "skipped": {
@@ -753,17 +757,17 @@
   "last_learn": 1795778022.2307458,
   "next_id": 27,
   "next_check": {
-    "BTC-USD": 1795831230,
-    "ETH-USD": 1795831230,
-    "SOL-USD": 1795831230,
-    "EURUSD=X": 1795828632.6083174,
-    "GBPUSD=X": 1795828633.5517588,
-    "AUDUSD=X": 1795828633.6356328,
-    "NZDUSD=X": 1795828633.7288039,
-    "GC=F": 1795828633.815134,
-    "SI=F": 1795828633.8960934,
-    "CL=F": 1795828633.978538,
-    "HG=F": 1795828634.0601354
+    "BTC-USD": 1795834830,
+    "ETH-USD": 1795834830,
+    "SOL-USD": 1795834830,
+    "EURUSD=X": 1795832234.0385783,
+    "GBPUSD=X": 1795832235.0382426,
+    "AUDUSD=X": 1795832235.103714,
+    "NZDUSD=X": 1795832235.2287543,
+    "GC=F": 1795832235.3073092,
+    "SI=F": 1795832235.3789034,
+    "CL=F": 1795832235.475041,
+    "HG=F": 1795832235.5410058
   },
   "src_pref": {
     "BTC-USD": 0,
